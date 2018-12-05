@@ -1,0 +1,5514 @@
+<!doctype html>
+<html>
+ <title>Resultado PMRN Masculino</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="https://code.jquery.com/jquery-3.1.1.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> 
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.quicksearch/2.3.1/jquery.quicksearch.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">  
+
+	 <div class="form-group input-group">
+  <span class="input-group-addon"><i class="glyphicon glyphicon-search"></i></span>
+ <input name="consulta" id="txt_consulta" placeholder="Consultar" type="text" class="form-control">
+</div>
+
+	<table id="tabela" class="table table-hover">
+		<thead>
+			<tr>
+			<th>Nota</th>    
+			<th>Nome</th>
+			</tr>
+ 			</thead>
+			<tbody>
+
+		<tr>
+			<td>9,33</td>
+			<td>EMANUEL ADOLFO MENDES DANTAS</td>
+		</tr>
+		<tr>
+			<td>9,32</td>
+			<td>FILIPE HENRIQUE DO NASCIMENTO</td>
+		</tr>
+		<tr>
+			<td>9,28</td>
+			<td>FABR&Iacute;CIO AGUIAR DE OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>9,27</td>
+			<td>JODILSON IRON GOMES DE MEDEIROS</td>
+		</tr>
+		<tr>
+			<td>9,26</td>
+			<td>ALISON FREIRE DE OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>9,25</td>
+			<td>EDUARDO DE LACERDA CATTANEO</td>
+		</tr>
+		<tr>
+			<td>9,25</td>
+			<td>VICTOR MENEZES COSTA</td>
+		</tr>
+		<tr>
+			<td>9,22</td>
+			<td>TALES LINHARES ULISSES</td>
+		</tr>
+		<tr>
+			<td>9,2</td>
+			<td>TALLES FREIRE GADELHA</td>
+		</tr>
+		<tr>
+			<td>9,19</td>
+			<td>GUSTAVO BRUNO DA SILVA PEREIRA</td>
+		</tr>
+		<tr>
+			<td>9,18</td>
+			<td>JOELISON THOMIREZ ROQUE DO NASCIMENTO</td>
+		</tr>
+		<tr>
+			<td>9,18</td>
+			<td>VICTOR ROCHA DA CONCEI&Ccedil;&Atilde;O</td>
+		</tr>
+		<tr>
+			<td>9,15</td>
+			<td>CARLOS AUGUSTO LUIS MONTES NETO</td>
+		</tr>
+		<tr>
+			<td>9,15</td>
+			<td>FELIPE AUGUSTO DE LIMA PAIVA</td>
+		</tr>
+		<tr>
+			<td>9,13</td>
+			<td>RARYSON ALEXANDRE CAVALCANTE</td>
+		</tr>
+		<tr>
+			<td>9,12</td>
+			<td>ALISON VAN DER LINDEN DE ALMEIDA</td>
+		</tr>
+		<tr>
+			<td>9,12</td>
+			<td>JESIEL BEZERRA DE MEDEIROS</td>
+		</tr>
+		<tr>
+			<td>9,1</td>
+			<td>MARCIO FAGNER FERNANDES TORRES</td>
+		</tr>
+		<tr>
+			<td>9,09</td>
+			<td>ALTAMIR DE BARROS SOUZA JUNIOR</td>
+		</tr>
+		<tr>
+			<td>9,08</td>
+			<td>GEYSON SAMARONE DE OLIVEIRA NUMERIANO</td>
+		</tr>
+		<tr>
+			<td>9,08</td>
+			<td>DERICK JUAN DA SILVA</td>
+		</tr>
+		<tr>
+			<td>9,05</td>
+			<td>AYRES VICTOR OLIVEIRA DE FREITAS</td>
+		</tr>
+		<tr>
+			<td>9,05</td>
+			<td>DAVID BRUCE MORAIS DE SOUZA</td>
+		</tr>
+		<tr>
+			<td>9,04</td>
+			<td>ARLEY BEZERRA DE MEDEIROS SILVA</td>
+		</tr>
+		<tr>
+			<td>9,04</td>
+			<td>DENNER MAKS PEREIRA DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>9,03</td>
+			<td>RENAN SANTANA DA SILVEIRA</td>
+		</tr>
+		<tr>
+			<td>9,02</td>
+			<td>DANILO JOS&Eacute; LIBERATO FREIRE DA SILVA</td>
+		</tr>
+		<tr>
+			<td>9</td>
+			<td>LUCAS ALBUQUERQUE DE G&Oacute;IS</td>
+		</tr>
+		<tr>
+			<td>8,98</td>
+			<td>RENNE WILLER REIS</td>
+		</tr>
+		<tr>
+			<td>8,98</td>
+			<td>PABLO VIN&Iacute;CIUS DE BRITO LIMA</td>
+		</tr>
+		<tr>
+			<td>8,98</td>
+			<td>RAYONI RAYNER OLIVEIRA RODRIGUES</td>
+		</tr>
+		<tr>
+			<td>8,97</td>
+			<td>JOHNATHAN NASCIMENTO BESSA DE LIMA</td>
+		</tr>
+		<tr>
+			<td>8,96</td>
+			<td>CASSIO FELIPE ALVES TAVARES</td>
+		</tr>
+		<tr>
+			<td>8,94</td>
+			<td>JEFFERSON ROMERO DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>8,92</td>
+			<td>JHONANTA ARIEL AZEVEDO DE LUCENA</td>
+		</tr>
+		<tr>
+			<td>8,88</td>
+			<td>RAFAEL PEDROSA DE LIRA</td>
+		</tr>
+		<tr>
+			<td>8,87</td>
+			<td>FRANCISCO ROMILDO DE LIMA SILVA</td>
+		</tr>
+		<tr>
+			<td>8,87</td>
+			<td>FRANCISCO THIAGO GUERRA MAGALHAES</td>
+		</tr>
+		<tr>
+			<td>8,86</td>
+			<td>FELIPE FELICIANO GOMES DA SILVA</td>
+		</tr>
+		<tr>
+			<td>8,85</td>
+			<td>PAULO ALEXANDRE DA ROCHA MORAIS</td>
+		</tr>
+		<tr>
+			<td>8,85</td>
+			<td>ANDRE VASCONCELOS DE MIRANDA ROCHA</td>
+		</tr>
+		<tr>
+			<td>8,85</td>
+			<td>LEONARDO DE SOUZA SANTOS</td>
+		</tr>
+		<tr>
+			<td>8,84</td>
+			<td>WANDO AC&Aacute;SSIO DE SOUSA MENDES</td>
+		</tr>
+		<tr>
+			<td>8,84</td>
+			<td>WESLEY L&Aacute;ZARO BEZERRA DE ARAUJO</td>
+		</tr>
+		<tr>
+			<td>8,82</td>
+			<td>AM&Oacute;S ARA&Uacute;JO RIBEIRO</td>
+		</tr>
+		<tr>
+			<td>8,82</td>
+			<td>LEONARDO HENRIQUE NOBRE PINTO</td>
+		</tr>
+		<tr>
+			<td>8,8</td>
+			<td>LE&Ocirc;NIDAS HERCULANO SANTOS IN&Aacute;CIO</td>
+		</tr>
+		<tr>
+			<td>8,8</td>
+			<td>WARLEY BENEVIDES E SILVA</td>
+		</tr>
+		<tr>
+			<td>8,79</td>
+			<td>DIEGO BRAND&Atilde;O GRILO</td>
+		</tr>
+		<tr>
+			<td>8,78</td>
+			<td>MANASSES DE ARAUJO OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>8,77</td>
+			<td>CHRISTENSON DIEGO VIRGOLINO</td>
+		</tr>
+		<tr>
+			<td>8,76</td>
+			<td>ISAAC BRUNO OLIVEIRA E SILVA</td>
+		</tr>
+		<tr>
+			<td>8,76</td>
+			<td>SUELLYSON DE LIMA FERREIRA</td>
+		</tr>
+		<tr>
+			<td>8,75</td>
+			<td>EWERTON RICHARD DE MEIRELES SILVEIRA</td>
+		</tr>
+		<tr>
+			<td>8,75</td>
+			<td>WERNER CLAUDIUS MENEZES WANDERLEY</td>
+		</tr>
+		<tr>
+			<td>8,74</td>
+			<td>LUCAS SILVA DE MEDEIROS</td>
+		</tr>
+		<tr>
+			<td>8,74</td>
+			<td>HEITOR M&Aacute;RLLON DE MORAIS</td>
+		</tr>
+		<tr>
+			<td>8,73</td>
+			<td>AUR&Eacute;LIO DOUGLLAS DA SILVA</td>
+		</tr>
+		<tr>
+			<td>8,73</td>
+			<td>H&Eacute;LIO ALVES DE OLIVEIRA J&Uacute;NIOR</td>
+		</tr>
+		<tr>
+			<td>8,72</td>
+			<td>DENNIS MITCHELL MELO DA SILVA</td>
+		</tr>
+		<tr>
+			<td>8,72</td>
+			<td>DOUGLAS DE ARA&Uacute;JO GON&Ccedil;ALVES</td>
+		</tr>
+		<tr>
+			<td>8,72</td>
+			<td>JO&Atilde;O PAULO SILVA LEITE</td>
+		</tr>
+		<tr>
+			<td>8,7</td>
+			<td>AUGUSTO LIMA DA COSTA JUNIOR</td>
+		</tr>
+		<tr>
+			<td>8,69</td>
+			<td>CYRO JOS&Eacute; CORDEIRO BRAYNER MALTA</td>
+		</tr>
+		<tr>
+			<td>8,69</td>
+			<td>MATHEUS &Iacute;TALO BATISTA GOMES DE ARA&Uacute;JO</td>
+		</tr>
+		<tr>
+			<td>8,68</td>
+			<td>JOS&Eacute; DE ARIMAT&Eacute;IA PEREIRA RODRIGUES J&Uacute;NIOR</td>
+		</tr>
+		<tr>
+			<td>8,68</td>
+			<td>LEANDRO LOPES DA SILVA</td>
+		</tr>
+		<tr>
+			<td>8,68</td>
+			<td>RAPHAEL BRUNO NOGUEIRA DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>8,68</td>
+			<td>MOACIR FERREIRA DOS SANTOS FILHO</td>
+		</tr>
+		<tr>
+			<td>8,67</td>
+			<td>ERIKSON HERMES SILVA FREITAS</td>
+		</tr>
+		<tr>
+			<td>8,67</td>
+			<td>PABLO FORLAN DE LIMA DIAS</td>
+		</tr>
+		<tr>
+			<td>8,67</td>
+			<td>DIEGO VITOR FILGUEIRA DA SILVA</td>
+		</tr>
+		<tr>
+			<td>8,67</td>
+			<td>FELIPE DANTAS DE SOUSA</td>
+		</tr>
+		<tr>
+			<td>8,65</td>
+			<td>CAIO HENRIQUE JACOME DA SILVA</td>
+		</tr>
+		<tr>
+			<td>8,65</td>
+			<td>GERFESSON WANKS DE MELO MENDES</td>
+		</tr>
+		<tr>
+			<td>8,63</td>
+			<td>ABILIO ASSIS MEDEIROS DA SILVA</td>
+		</tr>
+		<tr>
+			<td>8,63</td>
+			<td>RA&Iacute;FE GEORGE ROSENDO VIEIRA</td>
+		</tr>
+		<tr>
+			<td>8,63</td>
+			<td>EDIVALSON DE OLIVEIRA MOURA JUNIOR</td>
+		</tr>
+		<tr>
+			<td>8,62</td>
+			<td>CARLOS EDUARDO DE AZEVEDO SILVA</td>
+		</tr>
+		<tr>
+			<td>8,62</td>
+			<td>MATEUS MARCONDES SILVA DE SOUZA</td>
+		</tr>
+		<tr>
+			<td>8,61</td>
+			<td>&Aacute;LISTON DHIOGO BARRETO VELOSO</td>
+		</tr>
+		<tr>
+			<td>8,61</td>
+			<td>FELIPE DOS SANTOS CASSIANO</td>
+		</tr>
+		<tr>
+			<td>8,61</td>
+			<td>LUCAS MATEUS DE LIMA MEDEIROS</td>
+		</tr>
+		<tr>
+			<td>8,61</td>
+			<td>MARCIO JOSE DA SILVA</td>
+		</tr>
+		<tr>
+			<td>8,6</td>
+			<td>JOBSON DE LIMA E SILVA</td>
+		</tr>
+		<tr>
+			<td>8,6</td>
+			<td>MATHEUS EGYPTO PEREIRA</td>
+		</tr>
+		<tr>
+			<td>8,59</td>
+			<td>JOS&Eacute; WILLIAMS REBOU&Ccedil;AS SEGUNDO</td>
+		</tr>
+		<tr>
+			<td>8,59</td>
+			<td>MATHEUS MENDES ALVES</td>
+		</tr>
+		<tr>
+			<td>8,59</td>
+			<td>ROBSON CONRADO DO PARAISO</td>
+		</tr>
+		<tr>
+			<td>8,58</td>
+			<td>J&Ocirc;NATHAS RICHEL MACIEL DE SOUSA</td>
+		</tr>
+		<tr>
+			<td>8,57</td>
+			<td>ELIAS ENES BEZERRA JUNIOR</td>
+		</tr>
+		<tr>
+			<td>8,57</td>
+			<td>ISRAEL DIEGO DE OLIVEIRA BARRETO</td>
+		</tr>
+		<tr>
+			<td>8,55</td>
+			<td>BR&Aacute;ULIO MORAIS</td>
+		</tr>
+		<tr>
+			<td>8,55</td>
+			<td>C&Iacute;CERO CAMILO DE SENA AZEV&Ecirc;DO</td>
+		</tr>
+		<tr>
+			<td>8,55</td>
+			<td>LUCAS CAMARA DO VALE</td>
+		</tr>
+		<tr>
+			<td>8,53</td>
+			<td>ADAMS SEBASTIAN MESQUITA DA FONSECA</td>
+		</tr>
+		<tr>
+			<td>8,53</td>
+			<td>EMANOEL EDUARDO SILVA DAS CHAGAS</td>
+		</tr>
+		<tr>
+			<td>8,52</td>
+			<td>ALEXANDRE FERNANDES ROBERTO</td>
+		</tr>
+		<tr>
+			<td>8,52</td>
+			<td>ANT&Ocirc;NIO IGOR F&Eacute;LIX GOMES</td>
+		</tr>
+		<tr>
+			<td>8,51</td>
+			<td>EDINOR NUNES DA ROCHA NETO</td>
+		</tr>
+		<tr>
+			<td>8,51</td>
+			<td>GUILHERME RODRIGO ALMEIDA DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>8,51</td>
+			<td>THIAGO LUIZ FERNANDES DE OLIVEIRA SILVA</td>
+		</tr>
+		<tr>
+			<td>8,5</td>
+			<td>RAFAEL DE CARVALHO LIMA</td>
+		</tr>
+		<tr>
+			<td>8,5</td>
+			<td>ELIEL ELIAS DA SILVA</td>
+		</tr>
+		<tr>
+			<td>8,49</td>
+			<td>LUCAS TEIXEIRA DA SILVA</td>
+		</tr>
+		<tr>
+			<td>8,48</td>
+			<td>JOS&Eacute; HUMBERTO ADELINO DA SILVA J&Uacute;NIOR</td>
+		</tr>
+		<tr>
+			<td>8,48</td>
+			<td>VITOR HENRIQUE GALDINO DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>8,47</td>
+			<td>FRANCISCO ROM&Aacute;RIO DA SILVA</td>
+		</tr>
+		<tr>
+			<td>8,46</td>
+			<td>ITALO RODRIGO DA SILVA ARRUDA</td>
+		</tr>
+		<tr>
+			<td>8,46</td>
+			<td>ROBERTO SOARES SANTOS</td>
+		</tr>
+		<tr>
+			<td>8,45</td>
+			<td>HERMESON NOBERTO ALVES</td>
+		</tr>
+		<tr>
+			<td>8,44</td>
+			<td>DANIEL FILIPI DE CASTRO DANTAS</td>
+		</tr>
+		<tr>
+			<td>8,44</td>
+			<td>DANILO JAQUES BEZERRA</td>
+		</tr>
+		<tr>
+			<td>8,44</td>
+			<td>GIOVANI MOREIRA GOUVEIA ALT DOS REIS</td>
+		</tr>
+		<tr>
+			<td>8,44</td>
+			<td>J&Uacute;LIO C&Eacute;ZAR MUNIZ DANTAS</td>
+		</tr>
+		<tr>
+			<td>8,44</td>
+			<td>SEIGER MEDEIROS LE&Atilde;O</td>
+		</tr>
+		<tr>
+			<td>8,43</td>
+			<td>ALDAIR N&Oacute;BREGA DA SILVA</td>
+		</tr>
+		<tr>
+			<td>8,43</td>
+			<td>CARLOS EDUARDO FERREIRA COSTA</td>
+		</tr>
+		<tr>
+			<td>8,43</td>
+			<td>ERILIO CARLOS CORDEIRO</td>
+		</tr>
+		<tr>
+			<td>8,42</td>
+			<td>ERLAN DA SILVA LIMA</td>
+		</tr>
+		<tr>
+			<td>8,42</td>
+			<td>JANSEN ANTONIO FERREIRA MANSO JUNIOR</td>
+		</tr>
+		<tr>
+			<td>8,42</td>
+			<td>BRUNO HENRIQUE SILVA DO NASCIMENTO</td>
+		</tr>
+		<tr>
+			<td>8,42</td>
+			<td>IVES RENNAN DE OLIVEIRA ARAG&Atilde;O</td>
+		</tr>
+		<tr>
+			<td>8,41</td>
+			<td>DAVID CAMILO CAVALCANTI DE LIRA</td>
+		</tr>
+		<tr>
+			<td>8,41</td>
+			<td>VITOR TRIGUEIRO AZEVEDO</td>
+		</tr>
+		<tr>
+			<td>8,39</td>
+			<td>ANTUNES RODRIGO AZEVEDO DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>8,39</td>
+			<td>BRUNO FELIPE BARBOZA DE PAIVA</td>
+		</tr>
+		<tr>
+			<td>8,38</td>
+			<td>CLAUDIO ALVES DIOGENES DA SILVA</td>
+		</tr>
+		<tr>
+			<td>8,38</td>
+			<td>FELIPE SILVA BEZERRA</td>
+		</tr>
+		<tr>
+			<td>8,38</td>
+			<td>IGOR VITORINO DA LUZ</td>
+		</tr>
+		<tr>
+			<td>8,38</td>
+			<td>AGEU BRUCE DE OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>8,38</td>
+			<td>DOUGLAS DANIEL DE LIMA</td>
+		</tr>
+		<tr>
+			<td>8,38</td>
+			<td>MATHEUS DA N&Oacute;BREGA ESTRELA</td>
+		</tr>
+		<tr>
+			<td>8,37</td>
+			<td>ARTHUR GABRIEL FRAZAO BEZERRA ALVES</td>
+		</tr>
+		<tr>
+			<td>8,37</td>
+			<td>JEAN CARLOS NASCIMENTO CRUZ</td>
+		</tr>
+		<tr>
+			<td>8,37</td>
+			<td>LUAN DE OLIVEIRA SILVA</td>
+		</tr>
+		<tr>
+			<td>8,37</td>
+			<td>EUMADAN ABNER CAETANO DE MEDEIROS</td>
+		</tr>
+		<tr>
+			<td>8,36</td>
+			<td>ELIAS PEREIRA DE LIMA JUNIOR</td>
+		</tr>
+		<tr>
+			<td>8,36</td>
+			<td>KESSI DIONES OLIVEIRA SILVA</td>
+		</tr>
+		<tr>
+			<td>8,35</td>
+			<td>EDEILSON CARNEIRO SATURNINO</td>
+		</tr>
+		<tr>
+			<td>8,35</td>
+			<td>HERBERT FILLIPE ANSELMO ARA&Uacute;JO</td>
+		</tr>
+		<tr>
+			<td>8,35</td>
+			<td>HIGOR YAN BAY PEREIRA</td>
+		</tr>
+		<tr>
+			<td>8,35</td>
+			<td>DANIEL LAZARO MENDES VIANA</td>
+		</tr>
+		<tr>
+			<td>8,35</td>
+			<td>VICTOR HUGO XAVIER ESP&Iacute;NOLA DOS ANJOS</td>
+		</tr>
+		<tr>
+			<td>8,34</td>
+			<td>FRANCISCO BRUNO CORDEIRO DE QUEIROZ</td>
+		</tr>
+		<tr>
+			<td>8,34</td>
+			<td>JOS&Eacute; HAMILTON DINIZ ALBUQUERQUE FILHO</td>
+		</tr>
+		<tr>
+			<td>8,34</td>
+			<td>THIAGO FONSECA DE MOURA</td>
+		</tr>
+		<tr>
+			<td>8,34</td>
+			<td>VICTOR DE ARAUJO TEIXEIRA</td>
+		</tr>
+		<tr>
+			<td>8,33</td>
+			<td>FELIPE NASCIMENTO DE BRITO</td>
+		</tr>
+		<tr>
+			<td>8,33</td>
+			<td>LEANDRO ELIAS CAMPELO</td>
+		</tr>
+		<tr>
+			<td>8,33</td>
+			<td>LUIS EDUARDO GERMANO EVANGELISTA</td>
+		</tr>
+		<tr>
+			<td>8,33</td>
+			<td>PEDRO GON&Ccedil;ALVES DOS SANTOS NETO</td>
+		</tr>
+		<tr>
+			<td>8,33</td>
+			<td>LUCAS CORDEIRO VIDAL</td>
+		</tr>
+		<tr>
+			<td>8,32</td>
+			<td>ELBER VICTOR GOMES DA COSTA</td>
+		</tr>
+		<tr>
+			<td>8,32</td>
+			<td>JOS&Eacute; LOPES CARDOSO NETO</td>
+		</tr>
+		<tr>
+			<td>8,32</td>
+			<td>HALYSON FERREIRA DE LEMOS</td>
+		</tr>
+		<tr>
+			<td>8,32</td>
+			<td>JOS&Eacute; IN&Aacute;CIO DA COSTA SOBRINHO</td>
+		</tr>
+		<tr>
+			<td>8,32</td>
+			<td>M&Aacute;RCIO ANDR&Eacute; RODRIGUES ANDRADE</td>
+		</tr>
+		<tr>
+			<td>8,31</td>
+			<td>JO&Atilde;O BATISTA DE SOUZA JUNIOR</td>
+		</tr>
+		<tr>
+			<td>8,31</td>
+			<td>LUCAS SENA VIEIRA MORAIS</td>
+		</tr>
+		<tr>
+			<td>8,3</td>
+			<td>DARIO DE ARA&Uacute;JO GORG&Ocirc;NIO SOBRINHO</td>
+		</tr>
+		<tr>
+			<td>8,3</td>
+			<td>DAVID CARRADYNE FIRMINO DE SOUZA SILVA</td>
+		</tr>
+		<tr>
+			<td>8,3</td>
+			<td>JO&Atilde;O PEDRO MENDES CARVALHO E ALMEIDA</td>
+		</tr>
+		<tr>
+			<td>8,28</td>
+			<td>JHONATAS DA SILVA VALE</td>
+		</tr>
+		<tr>
+			<td>8,28</td>
+			<td>EDEURLAN ALBINO DUARTE</td>
+		</tr>
+		<tr>
+			<td>8,27</td>
+			<td>&Iacute;CARO BRUNO COSTA JALES</td>
+		</tr>
+		<tr>
+			<td>8,27</td>
+			<td>ALYSON DANTAS DA SILVA</td>
+		</tr>
+		<tr>
+			<td>8,27</td>
+			<td>BRUNO NOBRE TEIXEIRA</td>
+		</tr>
+		<tr>
+			<td>8,27</td>
+			<td>FERNANDO JOS&Eacute; OLIVEIRA DE BRITTO</td>
+		</tr>
+		<tr>
+			<td>8,27</td>
+			<td>LEONARDO SILVA DE ATA&Iacute;DE</td>
+		</tr>
+		<tr>
+			<td>8,27</td>
+			<td>MARCOS AMARAL JUNIOR</td>
+		</tr>
+		<tr>
+			<td>8,26</td>
+			<td>RINALDO RAMON SOARES SILVA</td>
+		</tr>
+		<tr>
+			<td>8,26</td>
+			<td>ROBSON YAM DE LUCENA JER&Ocirc;NIMO</td>
+		</tr>
+		<tr>
+			<td>8,25</td>
+			<td>&Eacute;MERSON LOUREN&Ccedil;O MARIZ</td>
+		</tr>
+		<tr>
+			<td>8,24</td>
+			<td>JO&Atilde;O PAULO DE LIMA SANTIAGO</td>
+		</tr>
+		<tr>
+			<td>8,24</td>
+			<td>JOS&Eacute; DIEGO RODRIGUES ARA&Uacute;JO</td>
+		</tr>
+		<tr>
+			<td>8,24</td>
+			<td>JOS&Eacute; WASHINGTON DE SANTIAGO OLIVEIRA JUNIOR</td>
+		</tr>
+		<tr>
+			<td>8,24</td>
+			<td>THALLES LUIZ NEGREIROS DA COSTA</td>
+		</tr>
+		<tr>
+			<td>8,23</td>
+			<td>ALEXANDRE PEREIRA BEZERRA</td>
+		</tr>
+		<tr>
+			<td>8,23</td>
+			<td>RAONIR KENNEDY DE MELO</td>
+		</tr>
+		<tr>
+			<td>8,23</td>
+			<td>VICTOR HUGO DINIZ SILVA</td>
+		</tr>
+		<tr>
+			<td>8,23</td>
+			<td>VICTOR QUEIROZ DA SILVA</td>
+		</tr>
+		<tr>
+			<td>8,23</td>
+			<td>VIN&Iacute;CIUS DI&Oacute;GENES DE ANDRADE</td>
+		</tr>
+		<tr>
+			<td>8,23</td>
+			<td>ARTHUR LUINI DAMASCENO ALEXANDRE</td>
+		</tr>
+		<tr>
+			<td>8,22</td>
+			<td>LUCAS QUEIROZ FERREIRA</td>
+		</tr>
+		<tr>
+			<td>8,22</td>
+			<td>DAVI GOMES DE ANDRADE PEIXOTO</td>
+		</tr>
+		<tr>
+			<td>8,22</td>
+			<td>ABRA&Atilde;O JOS&Eacute; AZEVEDO DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>8,22</td>
+			<td>DIEGO FERREIRA DE SOUZA</td>
+		</tr>
+		<tr>
+			<td>8,22</td>
+			<td>DOUGLAS HENRIQUE DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>8,22</td>
+			<td>HARRISON BARBOSA CAMILO</td>
+		</tr>
+		<tr>
+			<td>8,22</td>
+			<td>MAURICIO DOS SANTOS SILVA JUNIOR</td>
+		</tr>
+		<tr>
+			<td>8,22</td>
+			<td>RANDERSON TIB&Uacute;RCIO DE MEDEIROS</td>
+		</tr>
+		<tr>
+			<td>8,21</td>
+			<td>BRUNO DA CUNHA FREIRE</td>
+		</tr>
+		<tr>
+			<td>8,21</td>
+			<td>ANDERSON RODRIGUES DE SOUSA</td>
+		</tr>
+		<tr>
+			<td>8,21</td>
+			<td>DAVI FERREIRA TERTULIANO</td>
+		</tr>
+		<tr>
+			<td>8,21</td>
+			<td>RODRIGO DA SILVA FERNANDES</td>
+		</tr>
+		<tr>
+			<td>8,2</td>
+			<td>LEONARDO EUFR&Aacute;ZIO SOARES</td>
+		</tr>
+		<tr>
+			<td>8,19</td>
+			<td>MARCOS FERREIRA SOARES JUNIOR</td>
+		</tr>
+		<tr>
+			<td>8,19</td>
+			<td>LUIZ STEFANO GIOVANNE LIMA DALBUQUERQUE MESQUITA DE MEDEIROS BEZERRA</td>
+		</tr>
+		<tr>
+			<td>8,18</td>
+			<td>F&Aacute;BIO RAMOS DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>8,18</td>
+			<td>LEANDRO RIBEIRO DA SILVA</td>
+		</tr>
+		<tr>
+			<td>8,18</td>
+			<td>RENAN FERREIRA DUTRA</td>
+		</tr>
+		<tr>
+			<td>8,18</td>
+			<td>ALEXANDRE DE MENEZES CONTI</td>
+		</tr>
+		<tr>
+			<td>8,17</td>
+			<td>ARL&Uacute;CIO PEREIRA DO NASCIMENTO SILVA</td>
+		</tr>
+		<tr>
+			<td>8,17</td>
+			<td>ARTHUR FERNANDES BORGES DE MAC&Ecirc;DO</td>
+		</tr>
+		<tr>
+			<td>8,17</td>
+			<td>KLEYTON ANDRADE MARQUES</td>
+		</tr>
+		<tr>
+			<td>8,16</td>
+			<td>HABMAILDO SANTOS ARAUJO</td>
+		</tr>
+		<tr>
+			<td>8,16</td>
+			<td>EDGARD ARAUJO DE LIMA OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>8,15</td>
+			<td>EWERTON GOMES MONTENEGRO ALVES DA SILVA</td>
+		</tr>
+		<tr>
+			<td>8,15</td>
+			<td>PEDRO HENRIQUE ARA&Uacute;JO DE CASTRO</td>
+		</tr>
+		<tr>
+			<td>8,15</td>
+			<td>ITALO RODRIGO BATISTA SILVA</td>
+		</tr>
+		<tr>
+			<td>8,15</td>
+			<td>THIAGO DE SOUSA LUCIANO</td>
+		</tr>
+		<tr>
+			<td>8,14</td>
+			<td>ALISSON D&Aacute;RIO OLIVEIRA DE BRITO</td>
+		</tr>
+		<tr>
+			<td>8,14</td>
+			<td>LAYON VICTOR VIEIRA MAIA DE LIMA</td>
+		</tr>
+		<tr>
+			<td>8,14</td>
+			<td>MATHEUS HENRIQUE SILVA DA ROCHA</td>
+		</tr>
+		<tr>
+			<td>8,14</td>
+			<td>SAMUEL WAGNER DANTAS REVOREDO</td>
+		</tr>
+		<tr>
+			<td>8,13</td>
+			<td>&Ecirc;NDRIO S&Aacute;VIO SOARES DE MAC&Ecirc;DO FREIRE MACIEL</td>
+		</tr>
+		<tr>
+			<td>8,13</td>
+			<td>CARLOS ANTONIO PEREIRA DE O JUNIOR</td>
+		</tr>
+		<tr>
+			<td>8,13</td>
+			<td>JEFFERSON WELLINGTON GOMES DE ARAUJO ALVES</td>
+		</tr>
+		<tr>
+			<td>8,12</td>
+			<td>C&Eacute;SAR DA SILVA AZEVEDO</td>
+		</tr>
+		<tr>
+			<td>8,12</td>
+			<td>DYEGO FRANCISCO SILVA DA COSTA</td>
+		</tr>
+		<tr>
+			<td>8,12</td>
+			<td>LUIZ ANTONIO VIDAL NETO</td>
+		</tr>
+		<tr>
+			<td>8,12</td>
+			<td>MATHEUS SILVA DE LIMA</td>
+		</tr>
+		<tr>
+			<td>8,11</td>
+			<td>PETERSON FERREIRA DE SOUSA</td>
+		</tr>
+		<tr>
+			<td>8,11</td>
+			<td>LUIZ ARTHUR LIRA DE HOLLANDA</td>
+		</tr>
+		<tr>
+			<td>8,11</td>
+			<td>MATHEUS ALBUQUERQUE BEZERRA DE CARVALHO</td>
+		</tr>
+		<tr>
+			<td>8,1</td>
+			<td>FELIPE ANDR&Eacute; SENA VIDAL</td>
+		</tr>
+		<tr>
+			<td>8,1</td>
+			<td>TAVIE KORI AMORIM TEIXEIRA</td>
+		</tr>
+		<tr>
+			<td>8,1</td>
+			<td>ANTONIO CARLOS FREIRES ALVES FILHO</td>
+		</tr>
+		<tr>
+			<td>8,09</td>
+			<td>ARIEL YVES DE PAIVA FAGUNDES</td>
+		</tr>
+		<tr>
+			<td>8,09</td>
+			<td>CRISTIANO BEZERRA CAVALCANTI TOMAZ VILLASBOAS SEGUNDO</td>
+		</tr>
+		<tr>
+			<td>8,09</td>
+			<td>DIEGO FILIPE ARAUJO DA SILVA</td>
+		</tr>
+		<tr>
+			<td>8,09</td>
+			<td>ERIK LUCIANO DE BRITO ANDRADE</td>
+		</tr>
+		<tr>
+			<td>8,09</td>
+			<td>FILIPE EMANUEL ANIZIO DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>8,09</td>
+			<td>KELVIN DE ALBUQUERQUE RAMOS</td>
+		</tr>
+		<tr>
+			<td>8,09</td>
+			<td>MARDEN DANILO VALENTE DE ANDRADE</td>
+		</tr>
+		<tr>
+			<td>8,08</td>
+			<td>ANDERSON CLIVYN DOS SANTOS FERNANDES</td>
+		</tr>
+		<tr>
+			<td>8,08</td>
+			<td>GLEISSON DAMASCENA RODRIGUES</td>
+		</tr>
+		<tr>
+			<td>8,08</td>
+			<td>DIJACIR DE SOUSA JUNIOR</td>
+		</tr>
+		<tr>
+			<td>8,08</td>
+			<td>VITOR DAMAZIO MENDES DE SOUZA</td>
+		</tr>
+		<tr>
+			<td>8,07</td>
+			<td>CLAUDIO CESAR DOS SANTOS OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>8,07</td>
+			<td>DANILLO FELIPE FIGUEIR&Ecirc;DO ROCHA</td>
+		</tr>
+		<tr>
+			<td>8,07</td>
+			<td>JEFERSON JANIO DE OLIVEIRA COSTA</td>
+		</tr>
+		<tr>
+			<td>8,07</td>
+			<td>TAYAN FERREIRA PRAXEDES</td>
+		</tr>
+		<tr>
+			<td>8,06</td>
+			<td>RAFAEL COSTA VARELA</td>
+		</tr>
+		<tr>
+			<td>8,06</td>
+			<td>VICTOR LACERDA SCHEER</td>
+		</tr>
+		<tr>
+			<td>8,05</td>
+			<td>DOUGLAS SANTOS DE ARAUJO</td>
+		</tr>
+		<tr>
+			<td>8,05</td>
+			<td>NORMANDO DA SILVA FILHO</td>
+		</tr>
+		<tr>
+			<td>8,05</td>
+			<td>DAYVSON LEITE DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>8,05</td>
+			<td>RONI&Ecirc; MENDES DE BRITO</td>
+		</tr>
+		<tr>
+			<td>8,04</td>
+			<td>RAFAEL LIMA BANDEIRA SOUSA</td>
+		</tr>
+		<tr>
+			<td>8,04</td>
+			<td>BENJAMIM DEYVISON SILVA DE LIMA</td>
+		</tr>
+		<tr>
+			<td>8,04</td>
+			<td>JOS&Eacute; YURE BRITO DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>8,04</td>
+			<td>WHISTON THIAGO DE AZEVEDO SANTOS</td>
+		</tr>
+		<tr>
+			<td>8,03</td>
+			<td>FRANCISCO ANDR&Eacute; ANANIAS</td>
+		</tr>
+		<tr>
+			<td>8,03</td>
+			<td>ITALO CURINGA DA SILVA</td>
+		</tr>
+		<tr>
+			<td>8,03</td>
+			<td>JHONATHAN LUCAS DA SILVA OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>8,03</td>
+			<td>JORGE DIEGO PEREIRA ROCHA</td>
+		</tr>
+		<tr>
+			<td>8,03</td>
+			<td>KELVECKSON DE OLIVEIRA DANTAS</td>
+		</tr>
+		<tr>
+			<td>8,03</td>
+			<td>PAULO VICTOR DE SOUZA SILVA</td>
+		</tr>
+		<tr>
+			<td>8,03</td>
+			<td>THIAGO ALVES DA PAZ</td>
+		</tr>
+		<tr>
+			<td>8,03</td>
+			<td>YURI DAVID SILVA DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>8,03</td>
+			<td>IHAGO JONATHAN SOUSA LIMA</td>
+		</tr>
+		<tr>
+			<td>8,03</td>
+			<td>RANIERE RAMIRES GOMES DA SILVA</td>
+		</tr>
+		<tr>
+			<td>8,02</td>
+			<td>ADRIANO HENDERSON DA SILVA</td>
+		</tr>
+		<tr>
+			<td>8,02</td>
+			<td>CIRO ELIAS PEREZ MAIA</td>
+		</tr>
+		<tr>
+			<td>8,02</td>
+			<td>DENILSON F&Eacute;LIX DA SILVA</td>
+		</tr>
+		<tr>
+			<td>8,02</td>
+			<td>VITOR MESSIAS SILVA E SOUZA</td>
+		</tr>
+		<tr>
+			<td>8,01</td>
+			<td>LEOPOLDO DE ALMEIDA JALES</td>
+		</tr>
+		<tr>
+			<td>8</td>
+			<td>DANIEL MAX SOARES MOREIRA</td>
+		</tr>
+		<tr>
+			<td>8</td>
+			<td>DIELLYSON GLEYSER CAMPELO COSTA</td>
+		</tr>
+		<tr>
+			<td>8</td>
+			<td>DIMAS VICENTE FERREIRA FILHO</td>
+		</tr>
+		<tr>
+			<td>8</td>
+			<td>EDWARDO VINN&Iacute;CIUS DE SALES ALVES</td>
+		</tr>
+		<tr>
+			<td>8</td>
+			<td>VALDINEI BARBOSA PIMENTA</td>
+		</tr>
+		<tr>
+			<td>8</td>
+			<td>ISAAC MATHEUS GALVAO DE SOUZA</td>
+		</tr>
+		<tr>
+			<td>7,99</td>
+			<td>FELLIPE DANTAS COELHO</td>
+		</tr>
+		<tr>
+			<td>7,98</td>
+			<td>ANDERSON DOUGLAS DE FREITAS SANTOS</td>
+		</tr>
+		<tr>
+			<td>7,98</td>
+			<td>SEBASTI&Atilde;O CARLOS DOS SANTOS SILVA</td>
+		</tr>
+		<tr>
+			<td>7,98</td>
+			<td>DEYLLYS DERES DE MEDEIROS LOPES</td>
+		</tr>
+		<tr>
+			<td>7,98</td>
+			<td>CARLOS HENRIQUE VIANA MASCARENHAS</td>
+		</tr>
+		<tr>
+			<td>7,97</td>
+			<td>GILLIARD FERREIRA DE PAIVA MOURA</td>
+		</tr>
+		<tr>
+			<td>7,96</td>
+			<td>ALLAN MAGALH&Atilde;ES BRITO</td>
+		</tr>
+		<tr>
+			<td>7,96</td>
+			<td>DANIEL MELO DE LACERDA</td>
+		</tr>
+		<tr>
+			<td>7,95</td>
+			<td>CAYO CEZAR LACERDA FERNANDES</td>
+		</tr>
+		<tr>
+			<td>7,95</td>
+			<td>EDNARDO DE OLIVEIRA COSTA</td>
+		</tr>
+		<tr>
+			<td>7,95</td>
+			<td>RAFAEL FERNANDO DA PAZ NUNES</td>
+		</tr>
+		<tr>
+			<td>7,95</td>
+			<td>JENIHUDSON CAMILO VASCONCELOS</td>
+		</tr>
+		<tr>
+			<td>7,95</td>
+			<td>ROBERTO RODRIGUES DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>7,94</td>
+			<td>BRUNO DE LIMA</td>
+		</tr>
+		<tr>
+			<td>7,94</td>
+			<td>EDSON JOS&Eacute; FERREIRA MONTEIRO</td>
+		</tr>
+		<tr>
+			<td>7,93</td>
+			<td>ABIDAN EBER CAETANO DE MEDEIROS</td>
+		</tr>
+		<tr>
+			<td>7,93</td>
+			<td>ALONSO ALMEIDA BASILIO DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,93</td>
+			<td>FAGNER LIMA PIRES DE SOUSA</td>
+		</tr>
+		<tr>
+			<td>7,93</td>
+			<td>IWERTON PORTO SILVEIRA</td>
+		</tr>
+		<tr>
+			<td>7,93</td>
+			<td>PERYCLES RONDNELLY BARBOSA DE AR&Aacute;UJO LIMA</td>
+		</tr>
+		<tr>
+			<td>7,93</td>
+			<td>THIAGO DOS SANTOS OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>7,93</td>
+			<td>VICTOR KEYNES NERES DE FREITAS</td>
+		</tr>
+		<tr>
+			<td>7,92</td>
+			<td>LUIZ RUFINO DE FRAN&Ccedil;A FILHO</td>
+		</tr>
+		<tr>
+			<td>7,92</td>
+			<td>RAMON ELSON DE ANDRADE SOARES</td>
+		</tr>
+		<tr>
+			<td>7,92</td>
+			<td>GUSTAVO LOUREN&Ccedil;O DO NASCIMENTO BARBOSA</td>
+		</tr>
+		<tr>
+			<td>7,92</td>
+			<td>CLEYTON DOURIQUES PAULINO DE MENEZES</td>
+		</tr>
+		<tr>
+			<td>7,91</td>
+			<td>RICARDO ALVES DE SOUZA JUNIOR</td>
+		</tr>
+		<tr>
+			<td>7,91</td>
+			<td>POLISSENO SILVA MAGALHAES MENDES</td>
+		</tr>
+		<tr>
+			<td>7,91</td>
+			<td>TAIRONY HAR&Atilde; DA SILVA LEITE</td>
+		</tr>
+		<tr>
+			<td>7,91</td>
+			<td>ANDERSON RICHARD BARBOSA BORGES DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,91</td>
+			<td>CARLOS EDUARDO MAGAGNIN</td>
+		</tr>
+		<tr>
+			<td>7,91</td>
+			<td>JOAO VIEIRA DE MORAIS NETO</td>
+		</tr>
+		<tr>
+			<td>7,91</td>
+			<td>MICHEL DALYSTON DE OLIVEIRA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,91</td>
+			<td>RAY MAX DE MEDEIROS BATISTA</td>
+		</tr>
+		<tr>
+			<td>7,9</td>
+			<td>CRISTIANO JOSE ADELINO</td>
+		</tr>
+		<tr>
+			<td>7,9</td>
+			<td>SUELYSON MAGNO DE LIMA</td>
+		</tr>
+		<tr>
+			<td>7,9</td>
+			<td>WYNSTON MULLER ARAUJO DE FIGUEREDO</td>
+		</tr>
+		<tr>
+			<td>7,9</td>
+			<td>ANTONIO DANIEL DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,9</td>
+			<td>SAMUEL AUGUSTO TEIXEIRA DO NASCIMENTO</td>
+		</tr>
+		<tr>
+			<td>7,9</td>
+			<td>JOSE SIMOES PIRES</td>
+		</tr>
+		<tr>
+			<td>7,89</td>
+			<td>PEDRO HENRIQUE ARA&Uacute;JO DE LELIS</td>
+		</tr>
+		<tr>
+			<td>7,89</td>
+			<td>ANTONIO JORGE BATISTA BEZERRA TOMAZ</td>
+		</tr>
+		<tr>
+			<td>7,89</td>
+			<td>MATHEUS AUGUSTO SEABRA ALVES</td>
+		</tr>
+		<tr>
+			<td>7,89</td>
+			<td>RUGGIERO GABRIEL VAN HORN OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>7,88</td>
+			<td>R&Ocirc;MULO CIRIACO DE CARVALHO</td>
+		</tr>
+		<tr>
+			<td>7,88</td>
+			<td>MIQUEIAS LOPES DE ARAUJO</td>
+		</tr>
+		<tr>
+			<td>7,88</td>
+			<td>LEANDRO BEZERRA DO NASCIMENTO DUARTE</td>
+		</tr>
+		<tr>
+			<td>7,88</td>
+			<td>ZOZIMO ALEXANDRE MENDES DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,87</td>
+			<td>MIGUEL SIM&Otilde;ES DE ALMEIDA NETO</td>
+		</tr>
+		<tr>
+			<td>7,87</td>
+			<td>JOS&Eacute; ROBERTO SARTHOUR GOMES DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,87</td>
+			<td>ALYSON MARLOS DE OLIVEIRA MIRANDA</td>
+		</tr>
+		<tr>
+			<td>7,87</td>
+			<td>CLEYSON RODRIGO CABRAL</td>
+		</tr>
+		<tr>
+			<td>7,87</td>
+			<td>FRANCISCO FERNANDO GOMES DA CUNHA</td>
+		</tr>
+		<tr>
+			<td>7,87</td>
+			<td>FREDERICO MANUEL TORQUATO DE AMORIM</td>
+		</tr>
+		<tr>
+			<td>7,87</td>
+			<td>MANOEL JOSE DE ARAUJO</td>
+		</tr>
+		<tr>
+			<td>7,87</td>
+			<td>MARCKSON BYAN MEDEIROS AGUIAR</td>
+		</tr>
+		<tr>
+			<td>7,86</td>
+			<td>ARTUR LENNO RODRIGUES DE MEDEIROS</td>
+		</tr>
+		<tr>
+			<td>7,86</td>
+			<td>DI&Ecirc;GO GOMES</td>
+		</tr>
+		<tr>
+			<td>7,86</td>
+			<td>MARCOS VINICIUS MARINHO PEREIRA DE MORAIS</td>
+		</tr>
+		<tr>
+			<td>7,86</td>
+			<td>PAULO S&Eacute;RGIO DA SILVA DANTAS</td>
+		</tr>
+		<tr>
+			<td>7,86</td>
+			<td>PHILIPPE THOMAS GARCIA</td>
+		</tr>
+		<tr>
+			<td>7,85</td>
+			<td>MAXWELL FERREIRA DE OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>7,85</td>
+			<td>WILLAMS FERNANDES GOMES</td>
+		</tr>
+		<tr>
+			<td>7,85</td>
+			<td>HENDERSON SANTOS DE CASTRO GALV&Atilde;O</td>
+		</tr>
+		<tr>
+			<td>7,85</td>
+			<td>J&Uacute;LIO C&Eacute;SAR FIGUEREDO DA FONSECA</td>
+		</tr>
+		<tr>
+			<td>7,84</td>
+			<td>ANDERSON LUIZ SOARES DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,84</td>
+			<td>CARLOS DANIEL DA SILVA LIMA</td>
+		</tr>
+		<tr>
+			<td>7,84</td>
+			<td>FABIO ALEXANDRE DE MACEDO GONDIM</td>
+		</tr>
+		<tr>
+			<td>7,84</td>
+			<td>THIAGO SILVA BEZERRA DE SOUSA</td>
+		</tr>
+		<tr>
+			<td>7,84</td>
+			<td>KELVIN MENDES TAVARES</td>
+		</tr>
+		<tr>
+			<td>7,83</td>
+			<td>ANTONIO RAILSON DANTAS FONSECA</td>
+		</tr>
+		<tr>
+			<td>7,83</td>
+			<td>GUTEMBERG BARBOSA GOMES</td>
+		</tr>
+		<tr>
+			<td>7,83</td>
+			<td>LEANDRO HEL&Acirc;NIO FARIAS DI&Oacute;GENES</td>
+		</tr>
+		<tr>
+			<td>7,83</td>
+			<td>SAYMON T&Aacute;RIK VARELA ALVES</td>
+		</tr>
+		<tr>
+			<td>7,83</td>
+			<td>THIAGO HENRIQUE LACERDA CARNEIRO DE BARROS</td>
+		</tr>
+		<tr>
+			<td>7,82</td>
+			<td>JO&Atilde;O FELIPE GOMES DE OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>7,82</td>
+			<td>ANDRE DIAS VASCONCELOS JUNIOR</td>
+		</tr>
+		<tr>
+			<td>7,81</td>
+			<td>ARTHUR BALBOA DE MEDEIROS MARTINS</td>
+		</tr>
+		<tr>
+			<td>7,81</td>
+			<td>PABLO ALEX OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>7,81</td>
+			<td>ARNOUD FELIPE DE MELO</td>
+		</tr>
+		<tr>
+			<td>7,81</td>
+			<td>&Eacute;RICO VER&Iacute;SSIMO DE LIMA BURITI</td>
+		</tr>
+		<tr>
+			<td>7,8</td>
+			<td>RAFAEL JUSTINO BRITO</td>
+		</tr>
+		<tr>
+			<td>7,8</td>
+			<td>DAMIAO FERNANDES LEITE PEREIRA</td>
+		</tr>
+		<tr>
+			<td>7,8</td>
+			<td>RENALVO RAVELLI ROCHA DE MOURA</td>
+		</tr>
+		<tr>
+			<td>7,79</td>
+			<td>FRANCISCO FABIO DOS SANTOS BEZERRA</td>
+		</tr>
+		<tr>
+			<td>7,79</td>
+			<td>OTHON DARWMA DA COSTA MONTE</td>
+		</tr>
+		<tr>
+			<td>7,79</td>
+			<td>JORGE LUIZ SOARES DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>7,79</td>
+			<td>MATHEUS MAXIMO DA FONSECA</td>
+		</tr>
+		<tr>
+			<td>7,78</td>
+			<td>FILIPE ANTONIO ARA&Uacute;JO PINHEIRO</td>
+		</tr>
+		<tr>
+			<td>7,78</td>
+			<td>JOS&Eacute; LUCAS DOS SANTOS OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>7,78</td>
+			<td>SAMUEL DUARTE DE SOUZA</td>
+		</tr>
+		<tr>
+			<td>7,78</td>
+			<td>YURI BRUNO DO VALE XAVIER</td>
+		</tr>
+		<tr>
+			<td>7,78</td>
+			<td>EMIDIO JOS&Eacute; AVELINO DE MEDEIROS</td>
+		</tr>
+		<tr>
+			<td>7,78</td>
+			<td>SORZIGENES MONTEIRO VALE</td>
+		</tr>
+		<tr>
+			<td>7,78</td>
+			<td>WELLINGTON COSTA DA SILVA JUNIOR</td>
+		</tr>
+		<tr>
+			<td>7,78</td>
+			<td>GILSON DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,77</td>
+			<td>HIGOR FERNANDO LINHARES OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>7,77</td>
+			<td>MARCELO CHAVES DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,77</td>
+			<td>DOUGLAS DE ARAUJO CAETANO</td>
+		</tr>
+		<tr>
+			<td>7,77</td>
+			<td>MATHEUS MEDEIROS DA N&Oacute;BREGA</td>
+		</tr>
+		<tr>
+			<td>7,77</td>
+			<td>PEDRO LUCAS ALVES NUNES</td>
+		</tr>
+		<tr>
+			<td>7,77</td>
+			<td>ALFREDO HENRIQUE DANTAS</td>
+		</tr>
+		<tr>
+			<td>7,77</td>
+			<td>JO&Atilde;O CARLOS GON&Ccedil;ALVES</td>
+		</tr>
+		<tr>
+			<td>7,77</td>
+			<td>JOSEANDERSON FLORENCIO DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,77</td>
+			<td>YVES AUGUSTO FIGUEIREDO DE QUEIROZ</td>
+		</tr>
+		<tr>
+			<td>7,76</td>
+			<td>ERIWELTON ANTONIO DE HOLANA</td>
+		</tr>
+		<tr>
+			<td>7,76</td>
+			<td>SERGIO RICARDO NASCIMENTO DE SOUZA</td>
+		</tr>
+		<tr>
+			<td>7,76</td>
+			<td>DANIEL ZENON LOPES DO NASCIMENTO</td>
+		</tr>
+		<tr>
+			<td>7,76</td>
+			<td>FABIO HENRIQUE DANTAS DE CARVALHO</td>
+		</tr>
+		<tr>
+			<td>7,76</td>
+			<td>FRANCISCO ROBSON GRACIANO DE SOUZA</td>
+		</tr>
+		<tr>
+			<td>7,76</td>
+			<td>LUTEMBERG FERNANDES DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,76</td>
+			<td>MAY IAKULO TARGINO DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,76</td>
+			<td>ROBSON ROLD&Atilde;O DE MELO</td>
+		</tr>
+		<tr>
+			<td>7,76</td>
+			<td>SHARDSON ALVES SILVA</td>
+		</tr>
+		<tr>
+			<td>7,75</td>
+			<td>ERICK MORENO GOMES OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>7,75</td>
+			<td>F&Aacute;BIO ALESSANDRO CHAVES DA CUNHA</td>
+		</tr>
+		<tr>
+			<td>7,75</td>
+			<td>JOSE CARLOS PEREIRA FIDELES</td>
+		</tr>
+		<tr>
+			<td>7,75</td>
+			<td>LUIZ EDUARDO CORDEIRO DE OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>7,75</td>
+			<td>JONAS DA COSTA FARIAS</td>
+		</tr>
+		<tr>
+			<td>7,75</td>
+			<td>OTACILIO SALUSTINO DOS SANTOS NETO</td>
+		</tr>
+		<tr>
+			<td>7,75</td>
+			<td>DOM DIELTON PEREIRA DE ZAQUEU REZZO</td>
+		</tr>
+		<tr>
+			<td>7,75</td>
+			<td>FELIPE DE MEDEIROS PEREIRA COSTA</td>
+		</tr>
+		<tr>
+			<td>7,75</td>
+			<td>J&Uacute;LIO C&Eacute;SAR VICENTE AXIOLE</td>
+		</tr>
+		<tr>
+			<td>7,75</td>
+			<td>LUIZ ALBERTO FILHO</td>
+		</tr>
+		<tr>
+			<td>7,75</td>
+			<td>PEDRO ANNDREW FERNANDES SERAFIM</td>
+		</tr>
+		<tr>
+			<td>7,75</td>
+			<td>ANDERSON HERICK FIGUEIREDO DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,74</td>
+			<td>ALLAN MARTINS DE ARA&Uacute;JO</td>
+		</tr>
+		<tr>
+			<td>7,74</td>
+			<td>ARTHUR VIT&Oacute;RIO DE CARVALHO</td>
+		</tr>
+		<tr>
+			<td>7,74</td>
+			<td>JEFERSON TAIRONNE MEDEIROS DE FARIA</td>
+		</tr>
+		<tr>
+			<td>7,74</td>
+			<td>JOAO LUCAS MENEZES GALV&Atilde;O</td>
+		</tr>
+		<tr>
+			<td>7,74</td>
+			<td>VICENTE BARBOSA DE CARVALHO</td>
+		</tr>
+		<tr>
+			<td>7,74</td>
+			<td>VICTOR AMORIM DE CARVALHO</td>
+		</tr>
+		<tr>
+			<td>7,74</td>
+			<td>JOS&Eacute; FELIPE FREITAS DO NASCIMENTO</td>
+		</tr>
+		<tr>
+			<td>7,73</td>
+			<td>BRUNO DANTAS BEZERRA</td>
+		</tr>
+		<tr>
+			<td>7,73</td>
+			<td>CLEYTON JALLES SILVA DE OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>7,73</td>
+			<td>WLADIMIR LENIN LIMA MOREIRA</td>
+		</tr>
+		<tr>
+			<td>7,73</td>
+			<td>CLAUDIO CLAYTON SILVA DE ANDRADE</td>
+		</tr>
+		<tr>
+			<td>7,73</td>
+			<td>GABRIEL C&Acirc;MARA SEABRA DE LIMA</td>
+		</tr>
+		<tr>
+			<td>7,72</td>
+			<td>JOS&Eacute; FERNANDES RIBEIRO FILHO</td>
+		</tr>
+		<tr>
+			<td>7,72</td>
+			<td>ANDERSON MARTINS DE MEDEIROS</td>
+		</tr>
+		<tr>
+			<td>7,72</td>
+			<td>JEFFERSON RAFAEL DE CARVALHO LIRA</td>
+		</tr>
+		<tr>
+			<td>7,72</td>
+			<td>DOUGLAS RAFAEL DA ROCHA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,72</td>
+			<td>LUCAS GABRIEL ALMEIDA NASCIMENTO</td>
+		</tr>
+		<tr>
+			<td>7,72</td>
+			<td>VLAUBER IGOR ALMEIDA CALDEIRA</td>
+		</tr>
+		<tr>
+			<td>7,71</td>
+			<td>FILIPI FERREIRA FREIRE</td>
+		</tr>
+		<tr>
+			<td>7,71</td>
+			<td>FRANKLIN HENRIQUE SILVA DE ASSIS</td>
+		</tr>
+		<tr>
+			<td>7,71</td>
+			<td>HUGO VITORINO DA LUZ</td>
+		</tr>
+		<tr>
+			<td>7,71</td>
+			<td>KALLYTON AUGUSTO FERNANDES CAVALCANTE</td>
+		</tr>
+		<tr>
+			<td>7,71</td>
+			<td>LEON DOUGLAS SOARES DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,7</td>
+			<td>ALLISON RAPHAEL BATISTA</td>
+		</tr>
+		<tr>
+			<td>7,7</td>
+			<td>JO&Atilde;O FIRMINO RODRIGUES TERCEIRO</td>
+		</tr>
+		<tr>
+			<td>7,7</td>
+			<td>TIAGO TEIXEIRA DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,7</td>
+			<td>GERBESON GARCIA DO NASCIMENTO MORAIS</td>
+		</tr>
+		<tr>
+			<td>7,7</td>
+			<td>ITALO EVANGELISTA DA SILVA QUEIROZ</td>
+		</tr>
+		<tr>
+			<td>7,69</td>
+			<td>REN&Ecirc; ARNOUX MEIRA RAMOS</td>
+		</tr>
+		<tr>
+			<td>7,68</td>
+			<td>RENAN VALERIANO ENES DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,68</td>
+			<td>THIAGO HENRIQUE BORGES DE MEDEIROS</td>
+		</tr>
+		<tr>
+			<td>7,68</td>
+			<td>WESLEY SOUZA DE MORAIS</td>
+		</tr>
+		<tr>
+			<td>7,68</td>
+			<td>JOSEVAN EVANGELISTA NUNES ROCHA DE ASSIS</td>
+		</tr>
+		<tr>
+			<td>7,68</td>
+			<td>WILSON FELINTO PRAXEDES</td>
+		</tr>
+		<tr>
+			<td>7,67</td>
+			<td>DARIO FELIPE DE ASSIS SILVA</td>
+		</tr>
+		<tr>
+			<td>7,67</td>
+			<td>GUSTAVO ALEXANDRE BARBALHO NUNES</td>
+		</tr>
+		<tr>
+			<td>7,67</td>
+			<td>JEAN CARLOS DA SILVA NASCIMENTO</td>
+		</tr>
+		<tr>
+			<td>7,67</td>
+			<td>MAILSON THIAGO SALES DE LIRA</td>
+		</tr>
+		<tr>
+			<td>7,67</td>
+			<td>MICHEL DUTRA N&Oacute;BREGA</td>
+		</tr>
+		<tr>
+			<td>7,67</td>
+			<td>PEDRO &Iacute;TALO VIDAL DE OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>7,67</td>
+			<td>RODRIGO MENDES ZAQUEO</td>
+		</tr>
+		<tr>
+			<td>7,66</td>
+			<td>&Aacute;GNER ANTONIO DE LIMA E SILVA</td>
+		</tr>
+		<tr>
+			<td>7,66</td>
+			<td>EVERTON GALDINO RAMOS DE OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>7,66</td>
+			<td>JONATHAN RODRIGUES CAVALCANTE CARAPU&Ccedil;A</td>
+		</tr>
+		<tr>
+			<td>7,66</td>
+			<td>MANOEL ADALBERTO DA COSTA JUNIOR</td>
+		</tr>
+		<tr>
+			<td>7,66</td>
+			<td>MARCELO RIBEIRO COSTA</td>
+		</tr>
+		<tr>
+			<td>7,66</td>
+			<td>DANIEL CAMPOS BEZERRA DE MENEZES</td>
+		</tr>
+		<tr>
+			<td>7,66</td>
+			<td>ELIEBE LEYSON MATIAS DE SOUZA</td>
+		</tr>
+		<tr>
+			<td>7,65</td>
+			<td>DIEGO DAM&Aacute;SIO CRUZ DANTAS</td>
+		</tr>
+		<tr>
+			<td>7,65</td>
+			<td>LUAN FERNANDES DE BRITO</td>
+		</tr>
+		<tr>
+			<td>7,65</td>
+			<td>RENAN CLAUDIO FARIA</td>
+		</tr>
+		<tr>
+			<td>7,65</td>
+			<td>ALVARUS SEVERINO BATISTA SILVA JUNIOR</td>
+		</tr>
+		<tr>
+			<td>7,65</td>
+			<td>ALYSSON JOSE BEZERRA DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,65</td>
+			<td>CARLOS MORAIS DE ALBUQUERQUE NETO</td>
+		</tr>
+		<tr>
+			<td>7,65</td>
+			<td>JONATHAS DA COSTA COELHO</td>
+		</tr>
+		<tr>
+			<td>7,65</td>
+			<td>KLETO RICARDO CALDAS CARDOSO</td>
+		</tr>
+		<tr>
+			<td>7,65</td>
+			<td>LUCAS FONSECA DA COSTA</td>
+		</tr>
+		<tr>
+			<td>7,64</td>
+			<td>ALESSANDRO JACINTO RODRIGUES DE CARVALHO</td>
+		</tr>
+		<tr>
+			<td>7,64</td>
+			<td>FL&Aacute;VIO JOSIFRAN DE MEDEIROS</td>
+		</tr>
+		<tr>
+			<td>7,64</td>
+			<td>JAILSON LOUREN&Ccedil;O DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,64</td>
+			<td>MATEUS ARA&Uacute;JO LEITE DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,64</td>
+			<td>RAYSLAN RAYADY LEMOS SILVA</td>
+		</tr>
+		<tr>
+			<td>7,64</td>
+			<td>WELLINGTON KLEBER FREEIRE DE ALBUQUERUQUE DORE MARQUES</td>
+		</tr>
+		<tr>
+			<td>7,64</td>
+			<td>ROBSON CLISTENES FERREIRA DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,64</td>
+			<td>THIAGO JOSE TEOFILO RODRIGUES</td>
+		</tr>
+		<tr>
+			<td>7,63</td>
+			<td>ANDRE FELIPE DE OLIVEIRA SANTOS</td>
+		</tr>
+		<tr>
+			<td>7,63</td>
+			<td>NELSON MARINHO SILVA DE ARRUDA</td>
+		</tr>
+		<tr>
+			<td>7,63</td>
+			<td>CARLOS ANT&Ocirc;NIO DINIZ DOS SANTOS JUNIOR</td>
+		</tr>
+		<tr>
+			<td>7,63</td>
+			<td>ITAMAR TAVARES DA SILVA SOBRINHO</td>
+		</tr>
+		<tr>
+			<td>7,62</td>
+			<td>HERRERAS DE FRAN&Ccedil;A MACIEL</td>
+		</tr>
+		<tr>
+			<td>7,62</td>
+			<td>PEDRO HENRIQUE VIEGAS COSTA BORGES</td>
+		</tr>
+		<tr>
+			<td>7,62</td>
+			<td>ADRIANO DE ASSUN&Ccedil;&Atilde;O BEZERRA</td>
+		</tr>
+		<tr>
+			<td>7,62</td>
+			<td>DIOGO MENDES DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,62</td>
+			<td>JO&Atilde;O VICTOR MORAIS DE LIMA</td>
+		</tr>
+		<tr>
+			<td>7,62</td>
+			<td>CARLOS MAURICIO FERREIRA DA SILVA JUNIOR</td>
+		</tr>
+		<tr>
+			<td>7,62</td>
+			<td>MISAEL DE CAMPOS SILVA</td>
+		</tr>
+		<tr>
+			<td>7,61</td>
+			<td>ADERBAL DE LIMA SILVA SOBRINHO</td>
+		</tr>
+		<tr>
+			<td>7,61</td>
+			<td>ALVARO JORGE DANTAS DE ARAUJO FILHO</td>
+		</tr>
+		<tr>
+			<td>7,61</td>
+			<td>ROBERTO PEREIRA DE CARVALHO</td>
+		</tr>
+		<tr>
+			<td>7,6</td>
+			<td>GUTHIERRY CASSIANO DE AGUIAR</td>
+		</tr>
+		<tr>
+			<td>7,6</td>
+			<td>LUAN CAIO PEREIRA DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>7,6</td>
+			<td>RAFAEL BARBOSA DE ARQUINO LOPES</td>
+		</tr>
+		<tr>
+			<td>7,6</td>
+			<td>FRANSUELDO FLORENCIO RIBEIRO DO O</td>
+		</tr>
+		<tr>
+			<td>7,6</td>
+			<td>JEFERSON DENER SENA BARBOSA</td>
+		</tr>
+		<tr>
+			<td>7,6</td>
+			<td>DENNIS CRISTYAN SOARES DE SOUSA</td>
+		</tr>
+		<tr>
+			<td>7,6</td>
+			<td>HIGO CASSIO DE MEDEIROS MELO</td>
+		</tr>
+		<tr>
+			<td>7,6</td>
+			<td>LUCAS SILVA PEREIRA S&Aacute;TIRO</td>
+		</tr>
+		<tr>
+			<td>7,59</td>
+			<td>ARTUR AFONSO AYRES FILHO</td>
+		</tr>
+		<tr>
+			<td>7,59</td>
+			<td>JASIEL FREIRE VILELA JUNIOR</td>
+		</tr>
+		<tr>
+			<td>7,59</td>
+			<td>JONNATHAN YURI LINCOLN DE FARIAS</td>
+		</tr>
+		<tr>
+			<td>7,59</td>
+			<td>JOS&Eacute; JOSIAS SOBRAL NETO</td>
+		</tr>
+		<tr>
+			<td>7,59</td>
+			<td>SAMUEL CARVALHO DE SOUZA</td>
+		</tr>
+		<tr>
+			<td>7,58</td>
+			<td>CADMO OLIVEIRA DA COSTA</td>
+		</tr>
+		<tr>
+			<td>7,58</td>
+			<td>EDIMILSON XAVIER DO NASCIMENTO</td>
+		</tr>
+		<tr>
+			<td>7,58</td>
+			<td>LYZ DANIEL ANDRADE CAMARA</td>
+		</tr>
+		<tr>
+			<td>7,58</td>
+			<td>RAYLANDO SOARES DE LIMA</td>
+		</tr>
+		<tr>
+			<td>7,58</td>
+			<td>SEBASTI&Atilde;O FERREIRA J&Uacute;NIOR</td>
+		</tr>
+		<tr>
+			<td>7,58</td>
+			<td>PEDRO HENRIQUE ALENCASTRO ARRUDA</td>
+		</tr>
+		<tr>
+			<td>7,57</td>
+			<td>EDUARDO VIDAL LIMEIRA</td>
+		</tr>
+		<tr>
+			<td>7,57</td>
+			<td>GABRIEL PINTO WINGERTER BARROS</td>
+		</tr>
+		<tr>
+			<td>7,57</td>
+			<td>JOS&Eacute; OSCAR DE SOUZA LIMA J&Uacute;NIOR</td>
+		</tr>
+		<tr>
+			<td>7,57</td>
+			<td>PAULO ROBERTO OLIVEIRA DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,57</td>
+			<td>FERNANDO CARLOS DELGADO CUNHA</td>
+		</tr>
+		<tr>
+			<td>7,57</td>
+			<td>ROBSON GON&Ccedil;ALO DE OLIVEIRA J&Uacute;NIOR</td>
+		</tr>
+		<tr>
+			<td>7,57</td>
+			<td>RODRIGO MONTEIRO DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>7,57</td>
+			<td>THIAGO BENICIO DE SA</td>
+		</tr>
+		<tr>
+			<td>7,56</td>
+			<td>GLEDSON BRUNO GARCIA CARDOSO</td>
+		</tr>
+		<tr>
+			<td>7,56</td>
+			<td>THAWAN HACHID MARTINS SILVA</td>
+		</tr>
+		<tr>
+			<td>7,56</td>
+			<td>ALISSON ANTONIO FERREIRA GOUVEIA E SILVA</td>
+		</tr>
+		<tr>
+			<td>7,56</td>
+			<td>ALEX TITO DE OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>7,56</td>
+			<td>DAVID EDUARDO DE MEDEIROS LIMA BARROS</td>
+		</tr>
+		<tr>
+			<td>7,56</td>
+			<td>JOAO JERFFESON LIMA LOPES</td>
+		</tr>
+		<tr>
+			<td>7,56</td>
+			<td>S&Eacute;RGIO VER&Iacute;SSIMO DA N&Oacute;BREGA FILHO</td>
+		</tr>
+		<tr>
+			<td>7,55</td>
+			<td>ANTONIO BRUNO FERNANDES DE ARAUJO</td>
+		</tr>
+		<tr>
+			<td>7,55</td>
+			<td>GILBERTO FORTES DE OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>7,55</td>
+			<td>JOSE MARCELIANO DE OLIVEIRA FERNANDES</td>
+		</tr>
+		<tr>
+			<td>7,55</td>
+			<td>PEDRO HENRIQUE SANTOS DE MEDEIROS</td>
+		</tr>
+		<tr>
+			<td>7,54</td>
+			<td>GILFRAN JONAT&Atilde; TOMAZ DE SOUZA</td>
+		</tr>
+		<tr>
+			<td>7,54</td>
+			<td>HUGO NAPOLE&Atilde;O DE MELO ARA&Uacute;JO NETO</td>
+		</tr>
+		<tr>
+			<td>7,54</td>
+			<td>GILSON ELIAS DE OLIVEIRA JUNIOR</td>
+		</tr>
+		<tr>
+			<td>7,53</td>
+			<td>VINICIUS DE OLIVEIRA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,53</td>
+			<td>CARLOS GANDARELA DE ARA&Uacute;JO</td>
+		</tr>
+		<tr>
+			<td>7,53</td>
+			<td>CLODOMIRO BARBOZA DA SILVA J&Uacute;NIOR</td>
+		</tr>
+		<tr>
+			<td>7,53</td>
+			<td>GERALDO REINALDO DE OLIVEIRA JUNIOR</td>
+		</tr>
+		<tr>
+			<td>7,53</td>
+			<td>JOS&Eacute; IZAIAS ALVES DE OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>7,53</td>
+			<td>LUCAS GIL FERREIRA</td>
+		</tr>
+		<tr>
+			<td>7,53</td>
+			<td>ANDERSON PEREIRA DA COSTA</td>
+		</tr>
+		<tr>
+			<td>7,53</td>
+			<td>RANIERY PATRICIO DE AZEVEDO MEDEIROS</td>
+		</tr>
+		<tr>
+			<td>7,52</td>
+			<td>SAVIO ALVES DE MORAIS</td>
+		</tr>
+		<tr>
+			<td>7,52</td>
+			<td>JOAB DIAS DA COSTA</td>
+		</tr>
+		<tr>
+			<td>7,52</td>
+			<td>JOS&Eacute; AUGUSTO DO NASCIMENTO NETO</td>
+		</tr>
+		<tr>
+			<td>7,52</td>
+			<td>LEONARDO DANTAS DE MACEDO PEREIRA</td>
+		</tr>
+		<tr>
+			<td>7,51</td>
+			<td>ALMIR DANTAS DE SOUZA</td>
+		</tr>
+		<tr>
+			<td>7,51</td>
+			<td>FRANCISCO ERICARDO DO NASCIMENTO</td>
+		</tr>
+		<tr>
+			<td>7,51</td>
+			<td>FRANCISCO PAULO VITOR ALVES</td>
+		</tr>
+		<tr>
+			<td>7,51</td>
+			<td>IGOR LEONARDO FELIX BARBOSA</td>
+		</tr>
+		<tr>
+			<td>7,5</td>
+			<td>CASSIO CARDOSO PAIVA DE LUCENA</td>
+		</tr>
+		<tr>
+			<td>7,5</td>
+			<td>DIEGO BRUNO MAFRA DE ARA&Uacute;JO</td>
+		</tr>
+		<tr>
+			<td>7,5</td>
+			<td>VANDERLAN J&Uacute;NIOR OLIVEIRA FREIRE</td>
+		</tr>
+		<tr>
+			<td>7,5</td>
+			<td>JOS&Eacute; FRANCISCO DE CARVALHO MONTEIRO</td>
+		</tr>
+		<tr>
+			<td>7,49</td>
+			<td>JOABSON FLAVIO DE ANDRADE</td>
+		</tr>
+		<tr>
+			<td>7,49</td>
+			<td>RODRIGO MATHEUS DE MOURA ZUZA</td>
+		</tr>
+		<tr>
+			<td>7,49</td>
+			<td>DIROMAR REINALDO RAMOS JUNIOR</td>
+		</tr>
+		<tr>
+			<td>7,49</td>
+			<td>JOSE GUTEMBERG DA SILVA ELIAS</td>
+		</tr>
+		<tr>
+			<td>7,49</td>
+			<td>REDSON PAULO DE SOUSA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,48</td>
+			<td>ANTONIO NIELSON LOPES DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,48</td>
+			<td>ISMAEL PINHEIRO FELIX JUNIOR</td>
+		</tr>
+		<tr>
+			<td>7,48</td>
+			<td>RAFAEL DA SILVA SANTOS NASCIMENTO</td>
+		</tr>
+		<tr>
+			<td>7,48</td>
+			<td>RAMON F&Eacute;LIX VICTOR</td>
+		</tr>
+		<tr>
+			<td>7,48</td>
+			<td>SILVIO SILVA DO REGO</td>
+		</tr>
+		<tr>
+			<td>7,48</td>
+			<td>WALLCELONY PEIXOTO BENICIO DE S&Aacute;</td>
+		</tr>
+		<tr>
+			<td>7,48</td>
+			<td>DANIEL RAMON DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,48</td>
+			<td>FLEMMING RUMMENIGGE DE AZEVEDO SANTOS</td>
+		</tr>
+		<tr>
+			<td>7,48</td>
+			<td>LUIZ DYEGO RODRIGUES DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,47</td>
+			<td>CAIO VICTOR ALVES DE ARA&Uacute;JO LIMA</td>
+		</tr>
+		<tr>
+			<td>7,47</td>
+			<td>CELINARIO HENRIQUE DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,47</td>
+			<td>GABRIEL COSTA PAULUCCI</td>
+		</tr>
+		<tr>
+			<td>7,47</td>
+			<td>JEFFERSON FERREIRA DE OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>7,47</td>
+			<td>TIAGO EDUARDO DE OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>7,47</td>
+			<td>FRANCISCO EDUARDO JUVINO</td>
+		</tr>
+		<tr>
+			<td>7,47</td>
+			<td>RAUL C&Eacute;SAR G&Oacute;ES FERREIRA</td>
+		</tr>
+		<tr>
+			<td>7,47</td>
+			<td>ANDERSON DINIZ GUSM&Atilde;O</td>
+		</tr>
+		<tr>
+			<td>7,47</td>
+			<td>ANTONIO PAULINO DANTAS JUNIOR</td>
+		</tr>
+		<tr>
+			<td>7,47</td>
+			<td>FRANCISCO L&Uacute;CIO DO NASCIMENTO NETO</td>
+		</tr>
+		<tr>
+			<td>7,47</td>
+			<td>HELTER FERREIRA FIRMINO</td>
+		</tr>
+		<tr>
+			<td>7,47</td>
+			<td>UERDER FREITAS SILVA</td>
+		</tr>
+		<tr>
+			<td>7,47</td>
+			<td>WALLACE GOMES SOARES</td>
+		</tr>
+		<tr>
+			<td>7,46</td>
+			<td>AGENOR LAURENTINO FERREIRA FILHO</td>
+		</tr>
+		<tr>
+			<td>7,46</td>
+			<td>DIEGO FILIPE SILVA ARAUJO</td>
+		</tr>
+		<tr>
+			<td>7,46</td>
+			<td>GUSTAVO HENRIQUE DANTAS AIRES DE CARVALHO</td>
+		</tr>
+		<tr>
+			<td>7,46</td>
+			<td>LORRAN RANNIER LIMA ARAUJO</td>
+		</tr>
+		<tr>
+			<td>7,45</td>
+			<td>ALYSSON PABLO ALVES DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,45</td>
+			<td>ANDREY VALERIO SILVA JUNIOR</td>
+		</tr>
+		<tr>
+			<td>7,45</td>
+			<td>ANTONIO KENNEDY DA SILVEIRA BRITO</td>
+		</tr>
+		<tr>
+			<td>7,45</td>
+			<td>DILANO SANTOS DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,45</td>
+			<td>ESTANAILTON ALVES CABRAL JUNIOR</td>
+		</tr>
+		<tr>
+			<td>7,45</td>
+			<td>MATEUS BRENO PINHEIRO</td>
+		</tr>
+		<tr>
+			<td>7,45</td>
+			<td>PABLO EDUARDO NIKOLAIS TEIXEIRA BONIF&Aacute;CIO DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,44</td>
+			<td>LUDSON CESAR DE OLIVEIRA FERREIRA</td>
+		</tr>
+		<tr>
+			<td>7,44</td>
+			<td>JO&Atilde;O BATISTA DE OLIVEIRA OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>7,44</td>
+			<td>ARTHUR MENDES MARIANO GOMES</td>
+		</tr>
+		<tr>
+			<td>7,43</td>
+			<td>DANGLEYDSON JOSE DA COSTA</td>
+		</tr>
+		<tr>
+			<td>7,43</td>
+			<td>GIBSON JOS&Eacute; GALDINO DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,43</td>
+			<td>JAZRAEL JOS&Eacute; MORAIS SILVA</td>
+		</tr>
+		<tr>
+			<td>7,43</td>
+			<td>LUIZ WEDSON FELISMINO DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,43</td>
+			<td>RAMON COSTA NOLASCO</td>
+		</tr>
+		<tr>
+			<td>7,43</td>
+			<td>RAYONNE FRATRECCIO ADERALDO DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,43</td>
+			<td>JOSE VIEIRA DA SILVA NETO</td>
+		</tr>
+		<tr>
+			<td>7,43</td>
+			<td>KAIO REIS NASCIMENTO</td>
+		</tr>
+		<tr>
+			<td>7,42</td>
+			<td>CAIO DA SILVA MELO</td>
+		</tr>
+		<tr>
+			<td>7,42</td>
+			<td>DAVID QUERINO XAVIER</td>
+		</tr>
+		<tr>
+			<td>7,42</td>
+			<td>DAVID VIN&Iacute;CIUS DANTAS AZEV&Ecirc;DO</td>
+		</tr>
+		<tr>
+			<td>7,42</td>
+			<td>RAFAEL DO NASCIMENTO CAMPOS</td>
+		</tr>
+		<tr>
+			<td>7,42</td>
+			<td>AILSON ALVES DE SOUSA</td>
+		</tr>
+		<tr>
+			<td>7,42</td>
+			<td>FERNANDO SERGIO FARIAS GUIMAR&Atilde;ES</td>
+		</tr>
+		<tr>
+			<td>7,42</td>
+			<td>JO&Atilde;O MANOEL DANTAS DE ANDRADE</td>
+		</tr>
+		<tr>
+			<td>7,41</td>
+			<td>F&Aacute;BIO HENRIQUE DA SILVA GOMES</td>
+		</tr>
+		<tr>
+			<td>7,41</td>
+			<td>FELIPE RIBEIRO DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,41</td>
+			<td>FELIPPE TARKINNI CAVALCANTE DE SOUZA</td>
+		</tr>
+		<tr>
+			<td>7,41</td>
+			<td>FRANCISCO MAX FERNANDES DO NASCIMENTO</td>
+		</tr>
+		<tr>
+			<td>7,41</td>
+			<td>JO&Atilde;O LENO DO NASCIMENTO</td>
+		</tr>
+		<tr>
+			<td>7,41</td>
+			<td>&Aacute;TILLA ALEX DOS SANTOS GON&Ccedil;ALVES</td>
+		</tr>
+		<tr>
+			<td>7,41</td>
+			<td>JHAIMES WILLIAN DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>7,41</td>
+			<td>CARLOS EDUARDO BRUNET YANO</td>
+		</tr>
+		<tr>
+			<td>7,41</td>
+			<td>JO&Atilde;O VICTOR FERNANDES CARVALHO</td>
+		</tr>
+		<tr>
+			<td>7,41</td>
+			<td>RICHARDSON VICTOR MOREIRA DE FREITAS</td>
+		</tr>
+		<tr>
+			<td>7,4</td>
+			<td>ALEK WILLIAN BARRETO SOBRINHO</td>
+		</tr>
+		<tr>
+			<td>7,4</td>
+			<td>JOALE JEFFERSON DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,4</td>
+			<td>ADALCIDES FREIRE BEZERRA J&Uacute;NIOR</td>
+		</tr>
+		<tr>
+			<td>7,4</td>
+			<td>ANDR&Eacute; LU&Iacute;S PEREIRA DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>7,4</td>
+			<td>CLAUDIO JUNIO GOMES DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,4</td>
+			<td>GUSTAVO DE MORAIS TORRES OTERO</td>
+		</tr>
+		<tr>
+			<td>7,4</td>
+			<td>LUAN CARLOS BEZERRA DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,39</td>
+			<td>CLAUDIO EMANOEL ALVES DE OLIVEIRA FILHO</td>
+		</tr>
+		<tr>
+			<td>7,39</td>
+			<td>JERFFESON OSCAR DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>7,39</td>
+			<td>JESS&Eacute; ALVES JOSU&Eacute;</td>
+		</tr>
+		<tr>
+			<td>7,38</td>
+			<td>CLEVER M&Aacute;RCIO DOS SANTOS SILVA FILHO</td>
+		</tr>
+		<tr>
+			<td>7,38</td>
+			<td>EMERSON CARLOS PEREIRA ALVES</td>
+		</tr>
+		<tr>
+			<td>7,38</td>
+			<td>PABLO THALLES DE OLIVEIRA MORAIS</td>
+		</tr>
+		<tr>
+			<td>7,38</td>
+			<td>THYAGO LUIZ DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,38</td>
+			<td>FRANCISCO DUARTE OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>7,37</td>
+			<td>JEFFERSON XAVIER ALVES</td>
+		</tr>
+		<tr>
+			<td>7,37</td>
+			<td>JO&Atilde;O PAULO VICENTE DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,37</td>
+			<td>GARDEL RODRIGUES BEZERRA</td>
+		</tr>
+		<tr>
+			<td>7,37</td>
+			<td>JEAN CARLOS DA SILVA LUZ</td>
+		</tr>
+		<tr>
+			<td>7,37</td>
+			<td>RAUL SOBRAL TEN&Oacute;RIO</td>
+		</tr>
+		<tr>
+			<td>7,37</td>
+			<td>RODRIGO RAMOS JEANMONOD</td>
+		</tr>
+		<tr>
+			<td>7,37</td>
+			<td>ALYSON ANDERSON LEITE FERREIRA DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,37</td>
+			<td>IGOR DANTAS MORAIS</td>
+		</tr>
+		<tr>
+			<td>7,37</td>
+			<td>PEDRO AUGUSTO DE OLIVEIRA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,36</td>
+			<td>FELIPE FERNANDES MEDEIROS</td>
+		</tr>
+		<tr>
+			<td>7,36</td>
+			<td>RAUL MARINHO DANTAS</td>
+		</tr>
+		<tr>
+			<td>7,36</td>
+			<td>AGNUS FONTES DE LIMA</td>
+		</tr>
+		<tr>
+			<td>7,36</td>
+			<td>ANDERSON DE ALMEIDA PINHEIRO</td>
+		</tr>
+		<tr>
+			<td>7,36</td>
+			<td>MATHEUS SOARES DA ROCHA</td>
+		</tr>
+		<tr>
+			<td>7,36</td>
+			<td>JO&Atilde;O MARIA GOMES SOBRINHO</td>
+		</tr>
+		<tr>
+			<td>7,35</td>
+			<td>ERICK JANSEN SALES DE OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>7,35</td>
+			<td>DIOGO P&Eacute;RICLES DE FRAN&Ccedil;A MORAES</td>
+		</tr>
+		<tr>
+			<td>7,35</td>
+			<td>MATHEUS RICARDO OLIVEIRA NOBREGA</td>
+		</tr>
+		<tr>
+			<td>7,34</td>
+			<td>JUCIVAM BARBOSA DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,34</td>
+			<td>RODINEY BRITO DANTAS</td>
+		</tr>
+		<tr>
+			<td>7,34</td>
+			<td>THALES HEITOR TRINDADE ARA&Uacute;JO</td>
+		</tr>
+		<tr>
+			<td>7,34</td>
+			<td>THALLES SARAIVA SILVEIRA DE CARVALHO</td>
+		</tr>
+		<tr>
+			<td>7,34</td>
+			<td>VITOR FREIRE ALMEIDA</td>
+		</tr>
+		<tr>
+			<td>7,34</td>
+			<td>JEFFERSON CARDOSO DE LIMA</td>
+		</tr>
+		<tr>
+			<td>7,34</td>
+			<td>JO&Atilde;O VITOR ALVES DE AZEVEDO BARROS</td>
+		</tr>
+		<tr>
+			<td>7,33</td>
+			<td>ALEXSANDRO RODRIGUES SOARES</td>
+		</tr>
+		<tr>
+			<td>7,33</td>
+			<td>DANILO UCH&Ocirc;A DA COSTA</td>
+		</tr>
+		<tr>
+			<td>7,33</td>
+			<td>EVARISTO PEREIRA DA SILVA JUNIOR</td>
+		</tr>
+		<tr>
+			<td>7,33</td>
+			<td>&Iacute;CARO JORGE DE PAIVA ALVES</td>
+		</tr>
+		<tr>
+			<td>7,33</td>
+			<td>PEDRO GON&Ccedil;ALVES DIAS J&Uacute;NIOR</td>
+		</tr>
+		<tr>
+			<td>7,33</td>
+			<td>RAFAEL DE OLIVEIRA PEREIRA</td>
+		</tr>
+		<tr>
+			<td>7,32</td>
+			<td>ADEILTON DE OLIVEIRA SOUZA</td>
+		</tr>
+		<tr>
+			<td>7,32</td>
+			<td>EMANUEL GOMES DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>7,32</td>
+			<td>MARCEL COELHO PEIXOTO</td>
+		</tr>
+		<tr>
+			<td>7,32</td>
+			<td>SILLAS RAUAN DE MEDEIROS ARA&Uacute;JO</td>
+		</tr>
+		<tr>
+			<td>7,32</td>
+			<td>RENAN MEDEIROS XAVIER</td>
+		</tr>
+		<tr>
+			<td>7,32</td>
+			<td>PEDRO VICTOR MOURA DE OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>7,31</td>
+			<td>EMERSON DOS SANTOS MELO</td>
+		</tr>
+		<tr>
+			<td>7,31</td>
+			<td>LEANDRO COELHO DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,31</td>
+			<td>ESA&Uacute; DANTAS DE MEDEIROS</td>
+		</tr>
+		<tr>
+			<td>7,31</td>
+			<td>JO&Atilde;O OLINTO ALVES NETO</td>
+		</tr>
+		<tr>
+			<td>7,31</td>
+			<td>SERGIO MENESES PASTEL JUNIOR</td>
+		</tr>
+		<tr>
+			<td>7,31</td>
+			<td>TIAGO BRUNO DA SILVA COSTA</td>
+		</tr>
+		<tr>
+			<td>7,3</td>
+			<td>PEDRO SANDERSON SABINO DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,3</td>
+			<td>ANTONIO BATISTA DE MORAIS SEGUNDO</td>
+		</tr>
+		<tr>
+			<td>7,3</td>
+			<td>HAVNER MENDON&Ccedil;A RODRIGUES</td>
+		</tr>
+		<tr>
+			<td>7,3</td>
+			<td>PABLO GIANNUZO QUEIROZ DA CONCEI&Ccedil;&Atilde;O</td>
+		</tr>
+		<tr>
+			<td>7,3</td>
+			<td>ROBSON AUGRIZONIO DA COSTA</td>
+		</tr>
+		<tr>
+			<td>7,3</td>
+			<td>VITOR DE SOUSA CALDAS</td>
+		</tr>
+		<tr>
+			<td>7,29</td>
+			<td>GUTYERRY MENDES DE ARA&Uacute;JO LUNA</td>
+		</tr>
+		<tr>
+			<td>7,29</td>
+			<td>JOS&Eacute; WILSON MENDES J&Uacute;NIOR</td>
+		</tr>
+		<tr>
+			<td>7,29</td>
+			<td>KAIO RAMON DE AGUIAR LIMA</td>
+		</tr>
+		<tr>
+			<td>7,29</td>
+			<td>MATHEUS FERREIRA DA CRUZ</td>
+		</tr>
+		<tr>
+			<td>7,28</td>
+			<td>BRUNO COSTA MACEDO</td>
+		</tr>
+		<tr>
+			<td>7,28</td>
+			<td>THIAGO GOMES LEANDRO</td>
+		</tr>
+		<tr>
+			<td>7,28</td>
+			<td>TIAGO COSTA RAMOS DE OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>7,28</td>
+			<td>ADSON RODRIGO J&Aacute;COME LIRA</td>
+		</tr>
+		<tr>
+			<td>7,28</td>
+			<td>DAVIDSON DE OLIVEIRA MELO</td>
+		</tr>
+		<tr>
+			<td>7,28</td>
+			<td>GUILHERME DE SOUSA BARBOSA</td>
+		</tr>
+		<tr>
+			<td>7,28</td>
+			<td>JOS&Eacute; DAVID GON&Ccedil;ALVES SANTOS</td>
+		</tr>
+		<tr>
+			<td>7,27</td>
+			<td>JOAO PAULO AZEVEDO DA SILVA ISAIAS</td>
+		</tr>
+		<tr>
+			<td>7,27</td>
+			<td>JOSEILTON F&Aacute;BIO DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,27</td>
+			<td>VALTERLEI FREITAS DE ALMEIDA</td>
+		</tr>
+		<tr>
+			<td>7,27</td>
+			<td>ANDERSON WENDELL NASCIMENTO DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,27</td>
+			<td>H&Aacute;TILA CORREIA DE SOUZA</td>
+		</tr>
+		<tr>
+			<td>7,27</td>
+			<td>ALISSON ALEXANDRE ALVES MAIA PORTO</td>
+		</tr>
+		<tr>
+			<td>7,27</td>
+			<td>BRENDO STIVIE FREIRE SANTOS</td>
+		</tr>
+		<tr>
+			<td>7,26</td>
+			<td>ANDERSON DOMICIANO DA N&Oacute;BREGA DANTAS</td>
+		</tr>
+		<tr>
+			<td>7,26</td>
+			<td>HARIEFT DE SOUSA LIMA</td>
+		</tr>
+		<tr>
+			<td>7,26</td>
+			<td>MANOEL DA SILVA IMPERIAL JUNIOR</td>
+		</tr>
+		<tr>
+			<td>7,26</td>
+			<td>SAULO MOREIRA DE LIMA</td>
+		</tr>
+		<tr>
+			<td>7,26</td>
+			<td>WENDELL GURGEL DE SOUSA</td>
+		</tr>
+		<tr>
+			<td>7,26</td>
+			<td>JOS&Eacute; RICARDO MONTEIRO DE SOUZA</td>
+		</tr>
+		<tr>
+			<td>7,26</td>
+			<td>HUGO MATHEUS DE SOUZA ALMEIDA</td>
+		</tr>
+		<tr>
+			<td>7,26</td>
+			<td>MATHEUS RINALDI MOUTINHO SILVA</td>
+		</tr>
+		<tr>
+			<td>7,25</td>
+			<td>ADRIANO NASCIMENTO ANDRADE</td>
+		</tr>
+		<tr>
+			<td>7,25</td>
+			<td>ALAIN DELLON REIS DE FRAN&Ccedil;A</td>
+		</tr>
+		<tr>
+			<td>7,25</td>
+			<td>JUDSON BEZERRA CARVALHO</td>
+		</tr>
+		<tr>
+			<td>7,25</td>
+			<td>FRANCISCO ALVES FEITOSA</td>
+		</tr>
+		<tr>
+			<td>7,25</td>
+			<td>MAURI SIDNEY PINHEIRO PAULO</td>
+		</tr>
+		<tr>
+			<td>7,25</td>
+			<td>YHUGO MARLON PEREIRA</td>
+		</tr>
+		<tr>
+			<td>7,24</td>
+			<td>ANDERSON PINTO DE FRAN&Ccedil;A</td>
+		</tr>
+		<tr>
+			<td>7,24</td>
+			<td>GUILHERME BARROS MAIA DO AMARAL SEGUNDO</td>
+		</tr>
+		<tr>
+			<td>7,24</td>
+			<td>MATHEUS OLIVEIRA DE SENA</td>
+		</tr>
+		<tr>
+			<td>7,24</td>
+			<td>NATAN ARA&Uacute;JO LIRA</td>
+		</tr>
+		<tr>
+			<td>7,24</td>
+			<td>WENDELL JHONATAS ALVES DANTAS</td>
+		</tr>
+		<tr>
+			<td>7,24</td>
+			<td>LUIZ FERNANDO AKIO ALVES NAGAHARA</td>
+		</tr>
+		<tr>
+			<td>7,24</td>
+			<td>PAULO ROBERTO DE LIMA DANTAS</td>
+		</tr>
+		<tr>
+			<td>7,23</td>
+			<td>DOUGLAS NAOMY GARRIDO PORDEUS</td>
+		</tr>
+		<tr>
+			<td>7,23</td>
+			<td>REINALDO FERNANDES PIMENTA JUNIOR</td>
+		</tr>
+		<tr>
+			<td>7,23</td>
+			<td>SEVERINO ALVES DANTAS</td>
+		</tr>
+		<tr>
+			<td>7,23</td>
+			<td>ANTONIO GEORGE DE OLIVEIRA FILHO</td>
+		</tr>
+		<tr>
+			<td>7,23</td>
+			<td>JOSE FELIPE NOBRE DE MELO</td>
+		</tr>
+		<tr>
+			<td>7,22</td>
+			<td>ANDR&Eacute; LUIS OLIVEIRA DE ALMEIDA</td>
+		</tr>
+		<tr>
+			<td>7,22</td>
+			<td>JO&Atilde;O KLEBER BARBOZA DO NASCIMENTO</td>
+		</tr>
+		<tr>
+			<td>7,22</td>
+			<td>LUCAS ALEXANDRE DE OLIVEIRA LIMA</td>
+		</tr>
+		<tr>
+			<td>7,22</td>
+			<td>ANGELO RAFAEL DE SOUZA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,22</td>
+			<td>RAFAEL FRANCISCO DA COSTA BEZERRA</td>
+		</tr>
+		<tr>
+			<td>7,22</td>
+			<td>ADERALDO BEZERRA DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>7,22</td>
+			<td>MICHAEL BRUNO MONTEIRO DE AQUINO</td>
+		</tr>
+		<tr>
+			<td>7,22</td>
+			<td>OZIMAR MORAIS PINHEIRO JUNIOR</td>
+		</tr>
+		<tr>
+			<td>7,21</td>
+			<td>JAELSON F&Eacute;LIX DIAS</td>
+		</tr>
+		<tr>
+			<td>7,21</td>
+			<td>FILIPE PESSOA GARCIA FRAZAO</td>
+		</tr>
+		<tr>
+			<td>7,21</td>
+			<td>FRANCISCO DE ASSIS MONTEIRO DE SOUZA</td>
+		</tr>
+		<tr>
+			<td>7,2</td>
+			<td>FRANCISCO THOIAMY CAVALCANTE FERREIRA</td>
+		</tr>
+		<tr>
+			<td>7,2</td>
+			<td>JONATAS NASCIMENTO DA COSTA</td>
+		</tr>
+		<tr>
+			<td>7,2</td>
+			<td>THIAGO ELBER DE ARA&Uacute;JO ALVES</td>
+		</tr>
+		<tr>
+			<td>7,2</td>
+			<td>WELLINSON COSTA DE FREITAS</td>
+		</tr>
+		<tr>
+			<td>7,19</td>
+			<td>ALEXANDRE VICTOR PAIVA PINHEIRO</td>
+		</tr>
+		<tr>
+			<td>7,19</td>
+			<td>JALES DOUGLAS GOMES SILVA</td>
+		</tr>
+		<tr>
+			<td>7,19</td>
+			<td>JOS&Eacute; ROM&Aacute;RIO DA CUNHA</td>
+		</tr>
+		<tr>
+			<td>7,19</td>
+			<td>ALEXSANDRO IZIDIO DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,19</td>
+			<td>BRUNO MENDON&Ccedil;A DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,19</td>
+			<td>GUILHERME CAMILO DE LIMA</td>
+		</tr>
+		<tr>
+			<td>7,18</td>
+			<td>JOS&Eacute; EVANDRO DUTRA ALVES</td>
+		</tr>
+		<tr>
+			<td>7,18</td>
+			<td>LENILSON SILVA DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>7,18</td>
+			<td>LEONARDO GOMES DE FARIAS ALVES BILA</td>
+		</tr>
+		<tr>
+			<td>7,18</td>
+			<td>VICTOR RAVEL DE MEDEIROS COSTA</td>
+		</tr>
+		<tr>
+			<td>7,18</td>
+			<td>MARCOS VITTOR FRANCELINO QUEIROZ</td>
+		</tr>
+		<tr>
+			<td>7,18</td>
+			<td>MAXMILIANO DE PAIVA PEREIRA</td>
+		</tr>
+		<tr>
+			<td>7,17</td>
+			<td>FELIPE FERRER CORREIA DE ARAUJO</td>
+		</tr>
+		<tr>
+			<td>7,17</td>
+			<td>RICARDO MARTINS DE LIMA</td>
+		</tr>
+		<tr>
+			<td>7,17</td>
+			<td>TALLES FERNANDO DA SILVA CAMARA</td>
+		</tr>
+		<tr>
+			<td>7,17</td>
+			<td>YAGO DE SOUZA MELO</td>
+		</tr>
+		<tr>
+			<td>7,16</td>
+			<td>DANILO S&Eacute;RGIO TRINDADE FURTADO</td>
+		</tr>
+		<tr>
+			<td>7,16</td>
+			<td>JOS&Eacute; IN&Aacute;CIO DE OLIVEIRA NETO</td>
+		</tr>
+		<tr>
+			<td>7,16</td>
+			<td>CRISTOVAO FABIO DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,16</td>
+			<td>PAULO HENRIQUE DO NASCIMENTO SILVA</td>
+		</tr>
+		<tr>
+			<td>7,16</td>
+			<td>SIDNEY TARDELLE XAVIER DE LUCENA</td>
+		</tr>
+		<tr>
+			<td>7,15</td>
+			<td>ADSON MEDEIROS DE OLIVEIRA SOUZA</td>
+		</tr>
+		<tr>
+			<td>7,15</td>
+			<td>JOSIAS DOS SANTOS SILVA</td>
+		</tr>
+		<tr>
+			<td>7,15</td>
+			<td>HUGO DE OLIVEIRA FERNANDES</td>
+		</tr>
+		<tr>
+			<td>7,15</td>
+			<td>JO&Atilde;O PAULO SOARES MORAIS</td>
+		</tr>
+		<tr>
+			<td>7,15</td>
+			<td>JOSE EVANGELISTA FILHO</td>
+		</tr>
+		<tr>
+			<td>7,15</td>
+			<td>LAEDNO DE MOURA RODRIGUES JUNIOR</td>
+		</tr>
+		<tr>
+			<td>7,15</td>
+			<td>ROGER BEZERRA DE MOURA</td>
+		</tr>
+		<tr>
+			<td>7,15</td>
+			<td>RONIERY AGOSTINHO DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,14</td>
+			<td>FRANCISCO FERNANDES FERREIRA J&Uacute;NIOR</td>
+		</tr>
+		<tr>
+			<td>7,14</td>
+			<td>GILBERTO CAMPOS DE ARAUJO FILHO</td>
+		</tr>
+		<tr>
+			<td>7,14</td>
+			<td>JORDY NASCIMENTO DE SOUSA</td>
+		</tr>
+		<tr>
+			<td>7,14</td>
+			<td>WAMERSON DOS SANTOS SILVA</td>
+		</tr>
+		<tr>
+			<td>7,14</td>
+			<td>DIEGO AVELINO DE MAC&Ecirc;DO</td>
+		</tr>
+		<tr>
+			<td>7,14</td>
+			<td>MATHEUS DO NASCIMENTO SOUSA</td>
+		</tr>
+		<tr>
+			<td>7,14</td>
+			<td>NEILTON XAVIER DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>7,13</td>
+			<td>FILIPE MOTA DE OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>7,13</td>
+			<td>JOAB CHACON FERREIRA</td>
+		</tr>
+		<tr>
+			<td>7,13</td>
+			<td>VITOR BRENDO SAMUEL DA SILVA FERREIRA</td>
+		</tr>
+		<tr>
+			<td>7,13</td>
+			<td>ANDERSON MARQUES DE FRAN&Ccedil;A SILVA</td>
+		</tr>
+		<tr>
+			<td>7,13</td>
+			<td>JOS&Eacute; AUGUSTO NERY DE OLIVEIRA JUNIOR</td>
+		</tr>
+		<tr>
+			<td>7,12</td>
+			<td>DANIEL LUIZ GURGEL DE MEDEIROS</td>
+		</tr>
+		<tr>
+			<td>7,12</td>
+			<td>DEYVISSON LEANDRO DO NASCIMENTO</td>
+		</tr>
+		<tr>
+			<td>7,12</td>
+			<td>JONATHAS DOS SANTOS TEIXEIRA</td>
+		</tr>
+		<tr>
+			<td>7,12</td>
+			<td>JORGE TIM&Oacute;TEO NUNES DA ROCHA</td>
+		</tr>
+		<tr>
+			<td>7,12</td>
+			<td>JOS&Eacute; EMANUEL EVANGELISTA DE FREITAS</td>
+		</tr>
+		<tr>
+			<td>7,12</td>
+			<td>KAYO DOS SANTOS PEREIRA</td>
+		</tr>
+		<tr>
+			<td>7,12</td>
+			<td>LUCAS DE SOUZA FEITOZA</td>
+		</tr>
+		<tr>
+			<td>7,12</td>
+			<td>TALES XAVIER SEABRA</td>
+		</tr>
+		<tr>
+			<td>7,12</td>
+			<td>ALLAN KAYME VASCONCELOS SOUSA</td>
+		</tr>
+		<tr>
+			<td>7,12</td>
+			<td>FELIX ANTONIO DE ANDRADE JUNIOR</td>
+		</tr>
+		<tr>
+			<td>7,12</td>
+			<td>GILDERSON FERREIRA DE LIMA</td>
+		</tr>
+		<tr>
+			<td>7,12</td>
+			<td>GLEUSON LIMA MARANH&Atilde;O</td>
+		</tr>
+		<tr>
+			<td>7,12</td>
+			<td>JOSE CARLOS SOARES FILHO</td>
+		</tr>
+		<tr>
+			<td>7,12</td>
+			<td>JOSE WILSON DA SILVA JUNIOR</td>
+		</tr>
+		<tr>
+			<td>7,12</td>
+			<td>ROG&Eacute;RIO SIQUEIRA DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,12</td>
+			<td>WLADSON RYERE EVANGELISTA DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,11</td>
+			<td>ADELSON ALBUQUERQUE DE LIMA</td>
+		</tr>
+		<tr>
+			<td>7,11</td>
+			<td>ALLYSSON CRISTIAN SILVEIRA GALV&Atilde;O</td>
+		</tr>
+		<tr>
+			<td>7,11</td>
+			<td>AUGUSTO BEZERRA FELIX DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,11</td>
+			<td>CARLOS ALBERTO BANDEIRA FERREIRA</td>
+		</tr>
+		<tr>
+			<td>7,11</td>
+			<td>EDINEY MARCOS ALVES DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,11</td>
+			<td>HUGO ANDR&Eacute; DA SILVA ANDRADE</td>
+		</tr>
+		<tr>
+			<td>7,11</td>
+			<td>L&Aacute;ZARO LIMA FIDELES</td>
+		</tr>
+		<tr>
+			<td>7,1</td>
+			<td>FELIPE HENRIQUE NEPOMUCENO VIRGOLINO</td>
+		</tr>
+		<tr>
+			<td>7,1</td>
+			<td>IVISSON MAHARISHE DE MEDEIROS SILVA</td>
+		</tr>
+		<tr>
+			<td>7,1</td>
+			<td>ROM&Aacute;RIO DO NASCIMENTO SILVA</td>
+		</tr>
+		<tr>
+			<td>7,09</td>
+			<td>FELIPE DE ASSIS DA SILVA SANTOS</td>
+		</tr>
+		<tr>
+			<td>7,09</td>
+			<td>FRANCISCO XAVIER LEITE FILHO</td>
+		</tr>
+		<tr>
+			<td>7,09</td>
+			<td>ROMULO LUIZ FURTADO DE OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>7,08</td>
+			<td>ANDERSON FELIPE MONTEIRO</td>
+		</tr>
+		<tr>
+			<td>7,08</td>
+			<td>DANILO ARA&Uacute;JO DA COSTA</td>
+		</tr>
+		<tr>
+			<td>7,08</td>
+			<td>ERINALDO SANTOS DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,08</td>
+			<td>FRANCISCO FELIPE RAMOS SANTANA</td>
+		</tr>
+		<tr>
+			<td>7,08</td>
+			<td>GERSON DANIEL DE OLIVEIRA CALADO</td>
+		</tr>
+		<tr>
+			<td>7,08</td>
+			<td>GUTEMBERG COSTA DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,08</td>
+			<td>&Iacute;TALO CHAGAS ROCHA</td>
+		</tr>
+		<tr>
+			<td>7,08</td>
+			<td>PEDRO AUGUSTO SILVEIRA DE MIRANDA</td>
+		</tr>
+		<tr>
+			<td>7,08</td>
+			<td>VITOR RODRIGO DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,08</td>
+			<td>WEVERSON MAYANDERSON VASCONCELOS ARAUJO</td>
+		</tr>
+		<tr>
+			<td>7,08</td>
+			<td>EMANOEL ALEXSSANDRO DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,07</td>
+			<td>ALAN AMORIM COSTA DE LUNA</td>
+		</tr>
+		<tr>
+			<td>7,07</td>
+			<td>ANDRE COSTA FERREIRA DE LIMA</td>
+		</tr>
+		<tr>
+			<td>7,07</td>
+			<td>IVAN CARLOS DE PAIVA RAFAEL</td>
+		</tr>
+		<tr>
+			<td>7,07</td>
+			<td>JALYSON RENER MEDEIROS</td>
+		</tr>
+		<tr>
+			<td>7,07</td>
+			<td>MARCOS T&Uacute;LIO DE LIMA VIANNA</td>
+		</tr>
+		<tr>
+			<td>7,07</td>
+			<td>TARC&Iacute;SIO DE MOURA FERNANDES NETO</td>
+		</tr>
+		<tr>
+			<td>7,07</td>
+			<td>WALLTER FELIX DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,07</td>
+			<td>TEOFILO ETELVINO PIRES ALVES BARBOSA</td>
+		</tr>
+		<tr>
+			<td>7,07</td>
+			<td>JEFERSON EDUARDO CHAVES DE SOUZA</td>
+		</tr>
+		<tr>
+			<td>7,06</td>
+			<td>RODRIGO CORDEIRO DE MEDEIROS</td>
+		</tr>
+		<tr>
+			<td>7,06</td>
+			<td>JOAO PATRICIO DE PAIVA BEZERRA</td>
+		</tr>
+		<tr>
+			<td>7,06</td>
+			<td>FRANCISCO LOPES DE FREITAS J&Uacute;NIOR</td>
+		</tr>
+		<tr>
+			<td>7,06</td>
+			<td>FRANKLIN DELANO DE MENESES LIMA</td>
+		</tr>
+		<tr>
+			<td>7,06</td>
+			<td>FRED LINCOLN DE ALMEIDA PIRES</td>
+		</tr>
+		<tr>
+			<td>7,06</td>
+			<td>JEFFERSON WILLIAM MOREIRA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,06</td>
+			<td>SEVERINO DIEGO ALVES GOUVEIA</td>
+		</tr>
+		<tr>
+			<td>7,05</td>
+			<td>ERINILSON NASCIMENTO DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,05</td>
+			<td>FERNANDO CARLOS BENTO DE SOUZA</td>
+		</tr>
+		<tr>
+			<td>7,05</td>
+			<td>LU&Iacute;S VICTOR DI&Oacute;GENES DE MENDON&Ccedil;A</td>
+		</tr>
+		<tr>
+			<td>7,05</td>
+			<td>JOSUE MACIEL DE QUEIROZ FILHO</td>
+		</tr>
+		<tr>
+			<td>7,05</td>
+			<td>THIBERIO QUINTANS DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,04</td>
+			<td>JACKSON DOMINGOS DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,04</td>
+			<td>JOS&Eacute; JOHNATAN WEVERTON DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,04</td>
+			<td>RODRIGO MENDON&Ccedil;A DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,04</td>
+			<td>RONEI ALVES MELO</td>
+		</tr>
+		<tr>
+			<td>7,04</td>
+			<td>CRISPIANO ERICKSON VINICIUS DE OLIVEIRA LINHARES</td>
+		</tr>
+		<tr>
+			<td>7,04</td>
+			<td>TIAGO VIEIRA NEVES</td>
+		</tr>
+		<tr>
+			<td>7,03</td>
+			<td>LUCIAN KLEYTON TEIXEIRA DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>7,03</td>
+			<td>REGINALDO DE OLIVEIRA LIMA FILHO</td>
+		</tr>
+		<tr>
+			<td>7,03</td>
+			<td>EMERSON TELES FERREIRA E SILVA</td>
+		</tr>
+		<tr>
+			<td>7,03</td>
+			<td>IVANILSON MARTINS DA SILVA SEGUNDO</td>
+		</tr>
+		<tr>
+			<td>7,03</td>
+			<td>LUCIANO GALDINO MENDON&Ccedil;A</td>
+		</tr>
+		<tr>
+			<td>7,03</td>
+			<td>SERGIO FELIX MEDEIROS</td>
+		</tr>
+		<tr>
+			<td>7,02</td>
+			<td>ANDERSON BERTO FERREIRA DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7,02</td>
+			<td>JONATHAN SANTOS SOARES E SILVA</td>
+		</tr>
+		<tr>
+			<td>7,02</td>
+			<td>LUCAS FELIPE PEREIRA TORRES</td>
+		</tr>
+		<tr>
+			<td>7,02</td>
+			<td>MAGUISON LUCAS PAULO ASSIS</td>
+		</tr>
+		<tr>
+			<td>7,02</td>
+			<td>M&Aacute;RCIO ANDRADE DOS PASSOS</td>
+		</tr>
+		<tr>
+			<td>7,02</td>
+			<td>VITOR BARBOSA FALC&Atilde;O</td>
+		</tr>
+		<tr>
+			<td>7,02</td>
+			<td>CLEITON ANDERSON SILVA DE MELO</td>
+		</tr>
+		<tr>
+			<td>7,02</td>
+			<td>DAVI PORCINO DE ARAUJO</td>
+		</tr>
+		<tr>
+			<td>7,01</td>
+			<td>EROS AMADOR DANTAS</td>
+		</tr>
+		<tr>
+			<td>7,01</td>
+			<td>RODRIGO ALVES DE ASSIS</td>
+		</tr>
+		<tr>
+			<td>7,01</td>
+			<td>KALLEB SOUZA DE OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>7,01</td>
+			<td>ANDR&Eacute; VICTOR DIAS CORDEIRO</td>
+		</tr>
+		<tr>
+			<td>7,01</td>
+			<td>CLAUDENIR DO NASCIMENTO</td>
+		</tr>
+		<tr>
+			<td>7</td>
+			<td>IOLAN BATISTA FRANCISCO</td>
+		</tr>
+		<tr>
+			<td>7</td>
+			<td>LENISSON RAYR BRITO DA SILVA</td>
+		</tr>
+		<tr>
+			<td>7</td>
+			<td>ANTONIO SEVERIANO ROBERTO FILHO</td>
+		</tr>
+		<tr>
+			<td>7</td>
+			<td>ELIVAL FREIRE DE SANTANNA NETO</td>
+		</tr>
+		<tr>
+			<td>6,99</td>
+			<td>LUCAS LINEKER DO NASCIMENTO DOMINGOS</td>
+		</tr>
+		<tr>
+			<td>6,99</td>
+			<td>RENAN GOMES ALVES BARBOSA</td>
+		</tr>
+		<tr>
+			<td>6,99</td>
+			<td>THIAGO MARCELO RODRIGUES DE OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>6,99</td>
+			<td>ALLAN SANTOS ALVES</td>
+		</tr>
+		<tr>
+			<td>6,99</td>
+			<td>JOSIMAR DE OLIVEIRA GOMES</td>
+		</tr>
+		<tr>
+			<td>6,99</td>
+			<td>SERGIO AUGUSTO DE SOUZA ARAUJO</td>
+		</tr>
+		<tr>
+			<td>6,98</td>
+			<td>FABIANO CLEMENTINO ALVES DE SOUZA</td>
+		</tr>
+		<tr>
+			<td>6,98</td>
+			<td>KLEBER JOSE RODRIGUES OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>6,98</td>
+			<td>RA&Iacute; PABLO BARBOSA MARTINS</td>
+		</tr>
+		<tr>
+			<td>6,98</td>
+			<td>VICTOR ARA&Uacute;JO FERREIRA MATOS</td>
+		</tr>
+		<tr>
+			<td>6,98</td>
+			<td>RHUAN RODRIGO TEOFILO DO NASCIMENTO</td>
+		</tr>
+		<tr>
+			<td>6,97</td>
+			<td>MATHEUS BEZERRA RODRIGUES</td>
+		</tr>
+		<tr>
+			<td>6,97</td>
+			<td>ALLAN JAMES VIANA DE SOUSA</td>
+		</tr>
+		<tr>
+			<td>6,96</td>
+			<td>FRANCISCO ROG&Eacute;RIO VIEIRA TAVARES</td>
+		</tr>
+		<tr>
+			<td>6,96</td>
+			<td>WESLEY FERNANDES NASCIMENTO</td>
+		</tr>
+		<tr>
+			<td>6,96</td>
+			<td>ALDENES BRAGA N&Oacute;BREGA J&Uacute;NIOR</td>
+		</tr>
+		<tr>
+			<td>6,96</td>
+			<td>LUIZ JAILTON MONTEIRO CARDOSO</td>
+		</tr>
+		<tr>
+			<td>6,95</td>
+			<td>HYNNER STEPHANO SILVA</td>
+		</tr>
+		<tr>
+			<td>6,95</td>
+			<td>JEFERSON CARLOS ARAUJO TAVARES</td>
+		</tr>
+		<tr>
+			<td>6,95</td>
+			<td>MARCOS JOSE NUNES DE BRITO JUNIOR</td>
+		</tr>
+		<tr>
+			<td>6,95</td>
+			<td>WAGNER ALVES DE LIMA</td>
+		</tr>
+		<tr>
+			<td>6,94</td>
+			<td>FRANCISCO HELI&Eacute;SUS DE MEDEIROS</td>
+		</tr>
+		<tr>
+			<td>6,94</td>
+			<td>DEYLYSON SEVERO MENDES</td>
+		</tr>
+		<tr>
+			<td>6,94</td>
+			<td>THALES FERNANDES REIS</td>
+		</tr>
+		<tr>
+			<td>6,94</td>
+			<td>TARCIO LIMA DA FONS&Ecirc;CA</td>
+		</tr>
+		<tr>
+			<td>6,93</td>
+			<td>ALEXANDRE MARTINS DE MEDEIROS</td>
+		</tr>
+		<tr>
+			<td>6,93</td>
+			<td>ARTHUR DE ANGELYS FARIAS LIMA</td>
+		</tr>
+		<tr>
+			<td>6,93</td>
+			<td>DANILO WARELLA PITSCH</td>
+		</tr>
+		<tr>
+			<td>6,93</td>
+			<td>LUCAS DA SILVA PEREIRA</td>
+		</tr>
+		<tr>
+			<td>6,93</td>
+			<td>PEDRO ENEAS RAMALHO VIEIRA</td>
+		</tr>
+		<tr>
+			<td>6,92</td>
+			<td>CHARLES EDUARDO SILVA DE MACEDO</td>
+		</tr>
+		<tr>
+			<td>6,92</td>
+			<td>FERNANDO IGOR DA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,92</td>
+			<td>HELTON DANTAS AZEVEDO</td>
+		</tr>
+		<tr>
+			<td>6,92</td>
+			<td>JEFERSON DA SILVA FERREIRA</td>
+		</tr>
+		<tr>
+			<td>6,92</td>
+			<td>RAFAEL FRAN&Ccedil;A DA ROCHA</td>
+		</tr>
+		<tr>
+			<td>6,92</td>
+			<td>RENATO GALDINO DE SOUSA</td>
+		</tr>
+		<tr>
+			<td>6,92</td>
+			<td>DENIS DIOGO DE ARA&Uacute;JO SILVA</td>
+		</tr>
+		<tr>
+			<td>6,92</td>
+			<td>DIEGO RIBEIRO DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>6,91</td>
+			<td>IRINALDO DOS SANTOS FERNANDES</td>
+		</tr>
+		<tr>
+			<td>6,91</td>
+			<td>LEANDRO SOARES DE MELO</td>
+		</tr>
+		<tr>
+			<td>6,91</td>
+			<td>LIBNI RAPHAELL XAVIER DA CUNHA</td>
+		</tr>
+		<tr>
+			<td>6,91</td>
+			<td>VINICIUS CRUZ LIRA</td>
+		</tr>
+		<tr>
+			<td>6,91</td>
+			<td>ADYNIEL ULISSES DA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,91</td>
+			<td>LUIZ CARLOS REGIS SILVA</td>
+		</tr>
+		<tr>
+			<td>6,91</td>
+			<td>ERDRAS VIN&Iacute;CIUS DOS SANTOS MAURICIO</td>
+		</tr>
+		<tr>
+			<td>6,91</td>
+			<td>EVERTON DA SILVA MORAIS</td>
+		</tr>
+		<tr>
+			<td>6,91</td>
+			<td>FRANCISCO DAS CHAGAS SILVA SALES</td>
+		</tr>
+		<tr>
+			<td>6,9</td>
+			<td>ASLAM BERNARDO SOARES CORDEIRO</td>
+		</tr>
+		<tr>
+			<td>6,9</td>
+			<td>CASSIUS VINICIUS DE AZEVEDO CARVALHO</td>
+		</tr>
+		<tr>
+			<td>6,89</td>
+			<td>GLEYDSON CARVALHO DE PAULO SOUSA</td>
+		</tr>
+		<tr>
+			<td>6,89</td>
+			<td>ALBERTO MONTEIRO DE SOUSA SOBRINHO</td>
+		</tr>
+		<tr>
+			<td>6,89</td>
+			<td>RAUNY RODRIGUES DE PAIVA</td>
+		</tr>
+		<tr>
+			<td>6,88</td>
+			<td>C&Eacute;SAR RAMAR BEZERRA SARAIVA</td>
+		</tr>
+		<tr>
+			<td>6,88</td>
+			<td>EDIELSON DE MELO OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>6,88</td>
+			<td>RENATO MICHEL DE SANTANA PEIX&Ocirc;TO</td>
+		</tr>
+		<tr>
+			<td>6,88</td>
+			<td>DENIS DE FREITAS PONCIANO</td>
+		</tr>
+		<tr>
+			<td>6,87</td>
+			<td>&Aacute;LVARO HENRIQUE OLIVEIRA DA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,87</td>
+			<td>ED&Eacute;SIO DELANO FARIAS DI&Oacute;GENES</td>
+		</tr>
+		<tr>
+			<td>6,87</td>
+			<td>ELISGARDENIO PAZ DE SOUSA</td>
+		</tr>
+		<tr>
+			<td>6,87</td>
+			<td>MANOEL CANDIDO DA COSTA NETO</td>
+		</tr>
+		<tr>
+			<td>6,87</td>
+			<td>MARCOS DANIEL MENDES CARVALHO</td>
+		</tr>
+		<tr>
+			<td>6,87</td>
+			<td>MARIO GOMES DA SILVA JUNIOR</td>
+		</tr>
+		<tr>
+			<td>6,87</td>
+			<td>ALBERTO LUIZ VALEN&Ccedil;A DE CARVALHO AZEVEDO</td>
+		</tr>
+		<tr>
+			<td>6,87</td>
+			<td>FILLIP GRIMILY PEREIRA FARIAS</td>
+		</tr>
+		<tr>
+			<td>6,87</td>
+			<td>LUCAS BASTO OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>6,86</td>
+			<td>DIEGO HENRIQUE DA SILVA PAIVA</td>
+		</tr>
+		<tr>
+			<td>6,86</td>
+			<td>NAHOTO RODRIGUES DE AQUINO</td>
+		</tr>
+		<tr>
+			<td>6,86</td>
+			<td>DAMI&Atilde;O JORGE RODRIGUES DA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,86</td>
+			<td>JOACLISSON DOS SANTOS SILVA</td>
+		</tr>
+		<tr>
+			<td>6,86</td>
+			<td>LUIZ CARLOS DE MEDEIROS</td>
+		</tr>
+		<tr>
+			<td>6,86</td>
+			<td>WANDERSON OLIVEIRA PATRIOTA</td>
+		</tr>
+		<tr>
+			<td>6,85</td>
+			<td>ALIANDRO ALEXANDRE SERAFIM</td>
+		</tr>
+		<tr>
+			<td>6,85</td>
+			<td>CICERO RODRIGO DA CRUZ SILVA</td>
+		</tr>
+		<tr>
+			<td>6,85</td>
+			<td>MOIS&Eacute;S DE OLIVEIRA RODRIGUES</td>
+		</tr>
+		<tr>
+			<td>6,85</td>
+			<td>JONATHAN PEDRO DE SOUSA CAVALCANTE</td>
+		</tr>
+		<tr>
+			<td>6,85</td>
+			<td>D&Atilde; LUP&Eacute;RCIO COSTA</td>
+		</tr>
+		<tr>
+			<td>6,85</td>
+			<td>IZAIAS DA SILVA MACIEL</td>
+		</tr>
+		<tr>
+			<td>6,85</td>
+			<td>JOS&Eacute; ANCHIETA DA SILVA J&Uacute;NIOR</td>
+		</tr>
+		<tr>
+			<td>6,84</td>
+			<td>FRANCISCO FRANCIELDO DA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,84</td>
+			<td>JONATAS DOS SANTOS MOREIRA</td>
+		</tr>
+		<tr>
+			<td>6,84</td>
+			<td>JONATHAN HARLON DINIZ COSTA</td>
+		</tr>
+		<tr>
+			<td>6,84</td>
+			<td>SAMAEL MARTINS DE MEDEIROS</td>
+		</tr>
+		<tr>
+			<td>6,84</td>
+			<td>VALENCIO DARLAN DE SOUZA MOURA</td>
+		</tr>
+		<tr>
+			<td>6,84</td>
+			<td>FRANCISCO ANDRE NUNES DE ALMEIDA</td>
+		</tr>
+		<tr>
+			<td>6,84</td>
+			<td>JOHNNATION JOSEVAL DA SILVA BRITO</td>
+		</tr>
+		<tr>
+			<td>6,83</td>
+			<td>ANDERSON GON&Ccedil;ALVES DA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,83</td>
+			<td>ANTONI DUARTE DE ALENCAR</td>
+		</tr>
+		<tr>
+			<td>6,83</td>
+			<td>CL&Eacute;CIO NUNES SILVA DA COSTA</td>
+		</tr>
+		<tr>
+			<td>6,83</td>
+			<td>DAVI BARRETO DE CARVALHO</td>
+		</tr>
+		<tr>
+			<td>6,83</td>
+			<td>JONNAS WALBER BARBOSA DA COSTA GOUVEIA</td>
+		</tr>
+		<tr>
+			<td>6,83</td>
+			<td>JOS&Eacute; FRANCISCO DE SALES JUNIOR</td>
+		</tr>
+		<tr>
+			<td>6,83</td>
+			<td>KENNED DE AMORIM ALENCAR BARROS</td>
+		</tr>
+		<tr>
+			<td>6,83</td>
+			<td>MARCELO NUNES SILVA</td>
+		</tr>
+		<tr>
+			<td>6,82</td>
+			<td>ELLON DMETCHELLO MARTINS DE OLIVERIA</td>
+		</tr>
+		<tr>
+			<td>6,82</td>
+			<td>HALLEY DE MIRANDA GOMES</td>
+		</tr>
+		<tr>
+			<td>6,82</td>
+			<td>IGOR WESLLEY DE MELO VIEIRA</td>
+		</tr>
+		<tr>
+			<td>6,82</td>
+			<td>JANDIR GOMES DO NASCIMENTO</td>
+		</tr>
+		<tr>
+			<td>6,82</td>
+			<td>JOSE JAMILSON SILVA DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>6,82</td>
+			<td>MAURI NUNES DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>6,82</td>
+			<td>OZIAS MATHEUS DE SOUZA CASTRO</td>
+		</tr>
+		<tr>
+			<td>6,82</td>
+			<td>BRENO VINICIUS OLIVEIRA MARINHO</td>
+		</tr>
+		<tr>
+			<td>6,81</td>
+			<td>DIEGO VANDIKE DA SILVA PAZ</td>
+		</tr>
+		<tr>
+			<td>6,81</td>
+			<td>LUCAS NETO DA SILVA SANTOS</td>
+		</tr>
+		<tr>
+			<td>6,81</td>
+			<td>RENATO RODRIGUES ARA&Uacute;JO</td>
+		</tr>
+		<tr>
+			<td>6,81</td>
+			<td>LAMARK CARLOS I</td>
+		</tr>
+		<tr>
+			<td>6,81</td>
+			<td>CICERO RAMON TORRES</td>
+		</tr>
+		<tr>
+			<td>6,81</td>
+			<td>DANILO OLIMPIO DE AQUINO</td>
+		</tr>
+		<tr>
+			<td>6,81</td>
+			<td>JOS&Eacute; JHONATAN OLIVEIRA DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>6,81</td>
+			<td>OZIEL BRILHANTE DE SOUZA JUNIOR</td>
+		</tr>
+		<tr>
+			<td>6,81</td>
+			<td>RODOLFO HENRIQUE FREIRE DO MONTE SANTOS</td>
+		</tr>
+		<tr>
+			<td>6,8</td>
+			<td>RAVI GUERRA MEDEIROS CAVALCANTE</td>
+		</tr>
+		<tr>
+			<td>6,8</td>
+			<td>THIAGO JEFFERSON VILELA JUSTINO</td>
+		</tr>
+		<tr>
+			<td>6,8</td>
+			<td>CAIO C&Eacute;SAR BRILHANTE MEDEIROS</td>
+		</tr>
+		<tr>
+			<td>6,8</td>
+			<td>PAULO SERGIO BEZERRA JUNIOR</td>
+		</tr>
+		<tr>
+			<td>6,8</td>
+			<td>RENO RIBEIRO BARBOSA ALVES</td>
+		</tr>
+		<tr>
+			<td>6,8</td>
+			<td>BRUNO DE MAC&Ecirc;DO VIEGAS</td>
+		</tr>
+		<tr>
+			<td>6,8</td>
+			<td>HIGO ALVES DA COSTA</td>
+		</tr>
+		<tr>
+			<td>6,8</td>
+			<td>JODOVAL EMERSON DA SILVA NASCIMENTO</td>
+		</tr>
+		<tr>
+			<td>6,8</td>
+			<td>LUIS CARLOS DA SILVA JUNIOR</td>
+		</tr>
+		<tr>
+			<td>6,8</td>
+			<td>VIN&Iacute;CIUS M&Uuml;LLER SANTOS</td>
+		</tr>
+		<tr>
+			<td>6,79</td>
+			<td>ALLAMO FILGUEIRA SARAIVA</td>
+		</tr>
+		<tr>
+			<td>6,79</td>
+			<td>BENJAMIM RODRIGUES DE SANTANA FILHO</td>
+		</tr>
+		<tr>
+			<td>6,79</td>
+			<td>BRUNO HENRIQUE SOARES DE FREITAS</td>
+		</tr>
+		<tr>
+			<td>6,79</td>
+			<td>THIAGO RAMON GARRIDO TORRES</td>
+		</tr>
+		<tr>
+			<td>6,79</td>
+			<td>WELLINGTON FERREIRA VIEIRA GUIMAR&Atilde;ES</td>
+		</tr>
+		<tr>
+			<td>6,79</td>
+			<td>GUERRADY BERG DE OLIVEIRA MEDEIROS</td>
+		</tr>
+		<tr>
+			<td>6,79</td>
+			<td>SOTER EMIDIO DA COSTA JUNIOR</td>
+		</tr>
+		<tr>
+			<td>6,78</td>
+			<td>EDSON LEONEZ DA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,78</td>
+			<td>GEOVANE SOUZA DE SANTANA</td>
+		</tr>
+		<tr>
+			<td>6,78</td>
+			<td>JOSE LEONARDO FERNANDES DE SOUZA</td>
+		</tr>
+		<tr>
+			<td>6,78</td>
+			<td>MARCOS ANDR&Eacute; GURGEL DA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,78</td>
+			<td>ADAILSON ANTERO BARBOSA FELIX</td>
+		</tr>
+		<tr>
+			<td>6,78</td>
+			<td>ALLYSON BRAYNER DA SILVA LIMA</td>
+		</tr>
+		<tr>
+			<td>6,78</td>
+			<td>JOS&Eacute; LIPE MARTINS DE SOUZA</td>
+		</tr>
+		<tr>
+			<td>6,78</td>
+			<td>MANOEL MENDES DA SILVA JUNIOR</td>
+		</tr>
+		<tr>
+			<td>6,78</td>
+			<td>ELIABE MARQUES DA SILVA FILHO</td>
+		</tr>
+		<tr>
+			<td>6,77</td>
+			<td>DIOGO HENRIQUE ARRUDA</td>
+		</tr>
+		<tr>
+			<td>6,77</td>
+			<td>EDSON DIN&Aacute;POLIS DA SILVA LUIZ</td>
+		</tr>
+		<tr>
+			<td>6,77</td>
+			<td>HANDNNY WYLLER DE MOURA</td>
+		</tr>
+		<tr>
+			<td>6,77</td>
+			<td>ISAIAS EUZ&Eacute;BIO DE SOUZA DA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,77</td>
+			<td>LUIS ESTEVAO PIMENTEL HADDAD</td>
+		</tr>
+		<tr>
+			<td>6,77</td>
+			<td>MANOEL ROCHA PINHEIRO DE CARVALHO</td>
+		</tr>
+		<tr>
+			<td>6,77</td>
+			<td>MARCIO GLEYBSON RODRIGUES DA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,77</td>
+			<td>DARLAN FREIRE GURGEL DA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,76</td>
+			<td>MARCOS HENRIQUE SANTOS DA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,76</td>
+			<td>RODRIGO GLADSTONE MEDEIROS</td>
+		</tr>
+		<tr>
+			<td>6,76</td>
+			<td>JOSE MARCOS DANTAS JUNIOR</td>
+		</tr>
+		<tr>
+			<td>6,76</td>
+			<td>JOSE RICARDO DOS SANTOS SILVA</td>
+		</tr>
+		<tr>
+			<td>6,76</td>
+			<td>RENAN DA COSTA OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>6,75</td>
+			<td>ALEKSANDER ANDROUKOVITCH FELIX BARBOSA</td>
+		</tr>
+		<tr>
+			<td>6,75</td>
+			<td>ANTONIO MARCOS BORBA DA COSTA</td>
+		</tr>
+		<tr>
+			<td>6,75</td>
+			<td>JANDEILSON FELIX DA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,75</td>
+			<td>ELPIDIO GOMES DE ARAUJO</td>
+		</tr>
+		<tr>
+			<td>6,74</td>
+			<td>DJHAN ALVES DAMASCENO</td>
+		</tr>
+		<tr>
+			<td>6,74</td>
+			<td>JERRY J&Uacute;NIOR MATIAS DA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,74</td>
+			<td>LEONARDO OLIVEIRA DE MORAIS</td>
+		</tr>
+		<tr>
+			<td>6,73</td>
+			<td>ALEXANDRE BRUNO DE OLIVEIRA SILVEIRA</td>
+		</tr>
+		<tr>
+			<td>6,73</td>
+			<td>DENILSON MIRANDA DE SOUSA</td>
+		</tr>
+		<tr>
+			<td>6,73</td>
+			<td>DIEGO DE OLIVEIRA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,73</td>
+			<td>HEBERTT FELIPE CASSIANO PEREIRA</td>
+		</tr>
+		<tr>
+			<td>6,73</td>
+			<td>M&Aacute;RCIO ALESON ARA&Uacute;JO BRAZ</td>
+		</tr>
+		<tr>
+			<td>6,73</td>
+			<td>MATEUS MARINHO LIMA</td>
+		</tr>
+		<tr>
+			<td>6,72</td>
+			<td>PEDRO GUSTAVO ARAUJO DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>6,72</td>
+			<td>RAPHAEL MATOS ALBUQUERQUE DE MELO</td>
+		</tr>
+		<tr>
+			<td>6,72</td>
+			<td>ROMULO PAULO RIBEIRO ALVES</td>
+		</tr>
+		<tr>
+			<td>6,72</td>
+			<td>IELMON LOPES FERNANDES</td>
+		</tr>
+		<tr>
+			<td>6,72</td>
+			<td>LUCAS ANANIAS LOPES SILVEIRA DE SOUSA</td>
+		</tr>
+		<tr>
+			<td>6,72</td>
+			<td>CESAR AUGUSTO SEABRA MANSO FILHO</td>
+		</tr>
+		<tr>
+			<td>6,72</td>
+			<td>PEDRO SIM&Atilde;O DE SOUZA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,72</td>
+			<td>TAYRONE BATISTA DE ARA&Uacute;JO</td>
+		</tr>
+		<tr>
+			<td>6,71</td>
+			<td>PEDRO HENRIQUE XAVIER DE ARA&Uacute;JO</td>
+		</tr>
+		<tr>
+			<td>6,71</td>
+			<td>ALAN CARLOS DA COSTA SOARES</td>
+		</tr>
+		<tr>
+			<td>6,71</td>
+			<td>EDMUNDO DE OLIVEIRA SOUSA FILHO</td>
+		</tr>
+		<tr>
+			<td>6,7</td>
+			<td>MIGUEL PAULINO DE MEDEIROS NETO</td>
+		</tr>
+		<tr>
+			<td>6,7</td>
+			<td>THIBERIO MENEZES QUIRINO SIQUEIRA</td>
+		</tr>
+		<tr>
+			<td>6,7</td>
+			<td>ARNALDO COSTA BARBOZA MARINHO</td>
+		</tr>
+		<tr>
+			<td>6,7</td>
+			<td>DIEGO MAX FERNANDES DA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,7</td>
+			<td>FELIPE FERNANDEZ BEZERRA DA ROCHA</td>
+		</tr>
+		<tr>
+			<td>6,7</td>
+			<td>IVSON GOMES SANTANA</td>
+		</tr>
+		<tr>
+			<td>6,7</td>
+			<td>PAULO EDUARDO DE OLIVEIRA MARCELINO</td>
+		</tr>
+		<tr>
+			<td>6,69</td>
+			<td>CLEBER ELIZEU COUTINHO</td>
+		</tr>
+		<tr>
+			<td>6,69</td>
+			<td>LUCAS GABRIEL PAULINO DE PAULA</td>
+		</tr>
+		<tr>
+			<td>6,69</td>
+			<td>CALEBE ARIMATEIA DE FRAN&Ccedil;A JUNIOR</td>
+		</tr>
+		<tr>
+			<td>6,69</td>
+			<td>WILLYAN ALMEIDA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,69</td>
+			<td>EWERTON MATHEUS SILVA</td>
+		</tr>
+		<tr>
+			<td>6,69</td>
+			<td>KECIO DA COSTA BARBOSA</td>
+		</tr>
+		<tr>
+			<td>6,68</td>
+			<td>ISMAEL DE SOUSA NOBRE</td>
+		</tr>
+		<tr>
+			<td>6,68</td>
+			<td>JAIR RODRIGO DA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,68</td>
+			<td>ROM&Aacute;RIO DE LIMA</td>
+		</tr>
+		<tr>
+			<td>6,67</td>
+			<td>F&Aacute;BIO MIGUEL DE SOUZA</td>
+		</tr>
+		<tr>
+			<td>6,67</td>
+			<td>IGOR VALLELLI BARACHO</td>
+		</tr>
+		<tr>
+			<td>6,67</td>
+			<td>MATHEUS AUGUSTUS TEIXEIRA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,67</td>
+			<td>SAVIO LUIZ ARAUJO LEITE</td>
+		</tr>
+		<tr>
+			<td>6,67</td>
+			<td>ALLAN CAT&Atilde;O DE VASCONCELOS</td>
+		</tr>
+		<tr>
+			<td>6,67</td>
+			<td>&Acirc;NGELO THIAGO ANDRADE DE MEDEIROS</td>
+		</tr>
+		<tr>
+			<td>6,67</td>
+			<td>CARLOS EDUARDO NOBRE DE OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>6,67</td>
+			<td>C&Iacute;CERO ROM&Atilde;O DA SILVA LIMA</td>
+		</tr>
+		<tr>
+			<td>6,67</td>
+			<td>RAFAEL FIRMO DA COSTA</td>
+		</tr>
+		<tr>
+			<td>6,66</td>
+			<td>ALESSANDRO PINHEIRO DA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,66</td>
+			<td>HEITOR BARBOSA DE MORAIS BITTENCOURT DUTRA</td>
+		</tr>
+		<tr>
+			<td>6,66</td>
+			<td>ITALO RODRIGUES COSTA</td>
+		</tr>
+		<tr>
+			<td>6,66</td>
+			<td>LEONARDO MANOEL DE LIMA</td>
+		</tr>
+		<tr>
+			<td>6,66</td>
+			<td>EDJAEL DA SILVA OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>6,66</td>
+			<td>IRAKISTANE COSME DE SOUZA FILHO</td>
+		</tr>
+		<tr>
+			<td>6,66</td>
+			<td>JOSE RODOLFO SILVA</td>
+		</tr>
+		<tr>
+			<td>6,66</td>
+			<td>PEDRO HENRIQUE C&Acirc;MARA DE MEDEIROS</td>
+		</tr>
+		<tr>
+			<td>6,66</td>
+			<td>RENATO BORBA RODRIGUES</td>
+		</tr>
+		<tr>
+			<td>6,66</td>
+			<td>YCCARO WANKLAIR ALBUQUERQUE MARQUES</td>
+		</tr>
+		<tr>
+			<td>6,65</td>
+			<td>ADILVANILTON FERREIRA DA COSTA</td>
+		</tr>
+		<tr>
+			<td>6,65</td>
+			<td>MAX HUMBERTO DA CONCEI&Ccedil;&Atilde;O</td>
+		</tr>
+		<tr>
+			<td>6,64</td>
+			<td>FELIPE AUGUSTO CABRAL ANDRADE</td>
+		</tr>
+		<tr>
+			<td>6,64</td>
+			<td>MARLLOS HELLAN FERREIRA DE ARA&Uacute;JO</td>
+		</tr>
+		<tr>
+			<td>6,64</td>
+			<td>ALEX ALBINO SOUZA DE OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>6,64</td>
+			<td>BRUNO FERREIRA DA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,64</td>
+			<td>CLAUDIO CLEMENTINO DE MOURA</td>
+		</tr>
+		<tr>
+			<td>6,64</td>
+			<td>GUILHERME LEANDRO ROCHA ARAUJO</td>
+		</tr>
+		<tr>
+			<td>6,63</td>
+			<td>PAULO SERGIO BARBOSA LINS</td>
+		</tr>
+		<tr>
+			<td>6,63</td>
+			<td>GABRIEL TENORIO AGRA</td>
+		</tr>
+		<tr>
+			<td>6,63</td>
+			<td>THIAGO ALDENIR DE CARVALHO DANTAS PEREIRA</td>
+		</tr>
+		<tr>
+			<td>6,63</td>
+			<td>THIAGO LOPES FIUZA DINIZ</td>
+		</tr>
+		<tr>
+			<td>6,63</td>
+			<td>THYAGO HENRIQUE SOUSA DA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,62</td>
+			<td>JOS&Eacute; JANUARIO DOS SANTOS JUNIOR</td>
+		</tr>
+		<tr>
+			<td>6,62</td>
+			<td>PEDRO VICTOR FABRICIO DO NASCIMENTO</td>
+		</tr>
+		<tr>
+			<td>6,61</td>
+			<td>ISRAEL MENDES DE FREITAS</td>
+		</tr>
+		<tr>
+			<td>6,61</td>
+			<td>RAFAEL FELIX DA COSTA</td>
+		</tr>
+		<tr>
+			<td>6,61</td>
+			<td>SILVANILTON ARA&Uacute;JO DE OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>6,61</td>
+			<td>ALEX GABRIEL DE SOUZA</td>
+		</tr>
+		<tr>
+			<td>6,61</td>
+			<td>ARTHUR MACHADO DUARTE</td>
+		</tr>
+		<tr>
+			<td>6,61</td>
+			<td>FRANKLIN EDSON DE OLIVEIRA SOUZA</td>
+		</tr>
+		<tr>
+			<td>6,61</td>
+			<td>KELSON MOURA DA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,61</td>
+			<td>MARCELO DA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,6</td>
+			<td>ANTONIO C&Eacute;SAR DE SOUZA DANTAS</td>
+		</tr>
+		<tr>
+			<td>6,6</td>
+			<td>DIEGO TEIXEIRA DE ARAUJO FERNANDES</td>
+		</tr>
+		<tr>
+			<td>6,6</td>
+			<td>FRANCISCO DAVI SILVA SANTOS</td>
+		</tr>
+		<tr>
+			<td>6,6</td>
+			<td>ROBERLUCIO DOS SANTOS BEZERRA</td>
+		</tr>
+		<tr>
+			<td>6,6</td>
+			<td>RODRIGO ADERSON VASCONCELOS DE OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>6,6</td>
+			<td>SANDRO LAURIANO FERREIRA JUNIOR</td>
+		</tr>
+		<tr>
+			<td>6,6</td>
+			<td>AUGUSTO PONCIANO BARBOSA DA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,59</td>
+			<td>GEOVANNY MEDEIROS DANTAS JUNIOR</td>
+		</tr>
+		<tr>
+			<td>6,59</td>
+			<td>JOS&Eacute; AUGUSTO DA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,58</td>
+			<td>JO&Atilde;O PEDRO FREIRE TERTULIANO</td>
+		</tr>
+		<tr>
+			<td>6,58</td>
+			<td>JORDY HUGO ANDRADE BARBOSA</td>
+		</tr>
+		<tr>
+			<td>6,58</td>
+			<td>NEWTON FLORENTINO DA SILVA JUNIOR</td>
+		</tr>
+		<tr>
+			<td>6,58</td>
+			<td>RAFAEL BRENO PEREIRA DE MEDEIROS</td>
+		</tr>
+		<tr>
+			<td>6,58</td>
+			<td>ITALO GUSTAVO BARBOSA PEREIRA</td>
+		</tr>
+		<tr>
+			<td>6,58</td>
+			<td>RAFAEL FERREIRA DE MORAIS</td>
+		</tr>
+		<tr>
+			<td>6,57</td>
+			<td>GUILHERME LIMA BARBOSA MUNIZ</td>
+		</tr>
+		<tr>
+			<td>6,57</td>
+			<td>L&Uacute;CIO ANT&Ocirc;NIO FLOR&Ecirc;NCIO</td>
+		</tr>
+		<tr>
+			<td>6,57</td>
+			<td>MARCOS AUR&Eacute;LIO MARCELINO DA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,56</td>
+			<td>CELSON DE OLIVEIRA ANDRADE</td>
+		</tr>
+		<tr>
+			<td>6,56</td>
+			<td>VICTOR MARC&Iacute;LIO DE OLIVEIRA SOUZA</td>
+		</tr>
+		<tr>
+			<td>6,56</td>
+			<td>ALLAN DELLON DE SOUZA ALVES FERREIRA</td>
+		</tr>
+		<tr>
+			<td>6,56</td>
+			<td>AMADEU FRANCA DE ARAUJO NETO</td>
+		</tr>
+		<tr>
+			<td>6,56</td>
+			<td>JORGE CIDINI COSTA DO NASCIMENTO</td>
+		</tr>
+		<tr>
+			<td>6,55</td>
+			<td>ALYSON THIAGO DA SILVA ALMEIDA</td>
+		</tr>
+		<tr>
+			<td>6,55</td>
+			<td>JOS&Eacute; EM&Iacute;LIO CORDEIRO BARBOSA</td>
+		</tr>
+		<tr>
+			<td>6,55</td>
+			<td>MAURICIO NASCIMENTO DOS PRAZERES</td>
+		</tr>
+		<tr>
+			<td>6,55</td>
+			<td>ROM&Aacute;RIO NERES DOS REIS</td>
+		</tr>
+		<tr>
+			<td>6,55</td>
+			<td>VALDEMIR CABRAL FARIAS</td>
+		</tr>
+		<tr>
+			<td>6,54</td>
+			<td>FRANCISCO FERNANDES ALVES FILHO</td>
+		</tr>
+		<tr>
+			<td>6,54</td>
+			<td>BALBINO FERREIRA DE AGUIAR NETO</td>
+		</tr>
+		<tr>
+			<td>6,54</td>
+			<td>MICHEL BRUNNO DE OLIVEIRA BARRETO</td>
+		</tr>
+		<tr>
+			<td>6,54</td>
+			<td>WOLLASTON CAVALCANTE GOMES</td>
+		</tr>
+		<tr>
+			<td>6,53</td>
+			<td>FERNANDO LOPES DE MOURA</td>
+		</tr>
+		<tr>
+			<td>6,53</td>
+			<td>ALMIR LISB&Ocirc;A ARRUDA C&Acirc;MARA RIBEIRO</td>
+		</tr>
+		<tr>
+			<td>6,53</td>
+			<td>DANILO C&Acirc;NDIDO DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>6,53</td>
+			<td>JARDELSON LIMA DE SOUZA</td>
+		</tr>
+		<tr>
+			<td>6,53</td>
+			<td>TIALISSON DA SILVA LIMA</td>
+		</tr>
+		<tr>
+			<td>6,53</td>
+			<td>URBAN BATISTA COSTA</td>
+		</tr>
+		<tr>
+			<td>6,53</td>
+			<td>ALISSON CLIFORD DOS SANTOS FERNANDES</td>
+		</tr>
+		<tr>
+			<td>6,53</td>
+			<td>MANOEL JOAQUIM DOS SANTOS NETO</td>
+		</tr>
+		<tr>
+			<td>6,53</td>
+			<td>RAFAEL MENDON&Ccedil;A MOTA</td>
+		</tr>
+		<tr>
+			<td>6,52</td>
+			<td>RAVELLY OLIVEIRA DOS SANTOS SALES</td>
+		</tr>
+		<tr>
+			<td>6,52</td>
+			<td>RISLEY DANTAS GOMES</td>
+		</tr>
+		<tr>
+			<td>6,52</td>
+			<td>DIEGO AFRANIO LOPES DE SA E SILVA</td>
+		</tr>
+		<tr>
+			<td>6,52</td>
+			<td>ERICK ALVES DA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,52</td>
+			<td>FRANCISCO MATEUS FERNANDES DA COSTA</td>
+		</tr>
+		<tr>
+			<td>6,51</td>
+			<td>GLAUCO ALVES DA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,51</td>
+			<td>WILTON DA SILVA CAMBOIM</td>
+		</tr>
+		<tr>
+			<td>6,51</td>
+			<td>FELIPE QUEIROGA CAVALCANTI</td>
+		</tr>
+		<tr>
+			<td>6,51</td>
+			<td>FRANCISCO DE ASSIS DE OLIVEIRA FILHO</td>
+		</tr>
+		<tr>
+			<td>6,51</td>
+			<td>JOS&Eacute; MARCOS DANTAS DA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,51</td>
+			<td>THIAGO TRINDADE RODRIGUES</td>
+		</tr>
+		<tr>
+			<td>6,51</td>
+			<td>WESLEY FIRMINO DO NASCIMENTO</td>
+		</tr>
+		<tr>
+			<td>6,5</td>
+			<td>CAIO FELIPE PONTES CORADIN</td>
+		</tr>
+		<tr>
+			<td>6,49</td>
+			<td>HUGO HENRIQUE COELHO REIS</td>
+		</tr>
+		<tr>
+			<td>6,49</td>
+			<td>VINICIO DE SOUZA CARVALHO</td>
+		</tr>
+		<tr>
+			<td>6,48</td>
+			<td>JOANDERSON BRITO DE ALMEIDA</td>
+		</tr>
+		<tr>
+			<td>6,47</td>
+			<td>THIAGO RAFAEL DA SILVA DE AZEVEDO</td>
+		</tr>
+		<tr>
+			<td>6,46</td>
+			<td>LEONARDO ANTUNES DE FRAN&Ccedil;A PESSOA</td>
+		</tr>
+		<tr>
+			<td>6,46</td>
+			<td>ANTONIO SIDNEY LOUREN&Ccedil;O COELHO</td>
+		</tr>
+		<tr>
+			<td>6,45</td>
+			<td>EWERTON DOUGLAS SILVA DE LIMA</td>
+		</tr>
+		<tr>
+			<td>6,44</td>
+			<td>BRUNO RAFAEL DA SILVA TEIXEIRA</td>
+		</tr>
+		<tr>
+			<td>6,44</td>
+			<td>JORGE BRENDON LEITE PAIVA</td>
+		</tr>
+		<tr>
+			<td>6,44</td>
+			<td>YURI DAVID MENEZES ALVES</td>
+		</tr>
+		<tr>
+			<td>6,43</td>
+			<td>ALMIR CARLOS DE OLIVEIRA SEGUNDO</td>
+		</tr>
+		<tr>
+			<td>6,43</td>
+			<td>BRUNO LEONARDO ALVES</td>
+		</tr>
+		<tr>
+			<td>6,43</td>
+			<td>HANON SORMANY NOGUEIRA MAGALHAES</td>
+		</tr>
+		<tr>
+			<td>6,43</td>
+			<td>RAFAEL MEIRELES DE PONTES MENDES</td>
+		</tr>
+		<tr>
+			<td>6,43</td>
+			<td>THALLYS EMANNUEL FERREIRA CLEMENTE</td>
+		</tr>
+		<tr>
+			<td>6,43</td>
+			<td>MARKSUEL KLEBER MARQUES DE OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>6,42</td>
+			<td>FRANK YURI LIMA DE OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>6,42</td>
+			<td>WANDERSON DA SILVA MARTINS</td>
+		</tr>
+		<tr>
+			<td>6,41</td>
+			<td>JEFFERSON KLEYTON VASCONCELOS ARAUJO</td>
+		</tr>
+		<tr>
+			<td>6,41</td>
+			<td>MIQUEIAS ALVES TEIXEIRA</td>
+		</tr>
+		<tr>
+			<td>6,41</td>
+			<td>ANTONIO BRUNO GALDINO DA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,41</td>
+			<td>CARLOS TALYSON DA COSTA</td>
+		</tr>
+		<tr>
+			<td>6,4</td>
+			<td>ARLEY SAMUEL ANDRADE MARTINS DA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,4</td>
+			<td>FRANCISCO ESTEV&Atilde;O DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>6,4</td>
+			<td>JO&Atilde;O FRANCISCO DA SILVA NETO</td>
+		</tr>
+		<tr>
+			<td>6,4</td>
+			<td>LUCIANO DA SILVA SOUZA</td>
+		</tr>
+		<tr>
+			<td>6,4</td>
+			<td>MARCIO HENRIQUE MELO DE SOUZA</td>
+		</tr>
+		<tr>
+			<td>6,39</td>
+			<td>ADAMO LUCENA BRANDT</td>
+		</tr>
+		<tr>
+			<td>6,39</td>
+			<td>JO&Atilde;O PAULO GOMES</td>
+		</tr>
+		<tr>
+			<td>6,39</td>
+			<td>TIMOTEO JOSE DA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,39</td>
+			<td>JAEDILSON JOHN DE MEDEIROS CUNHA</td>
+		</tr>
+		<tr>
+			<td>6,39</td>
+			<td>JOS&Eacute; ROBERTO TOMAZ</td>
+		</tr>
+		<tr>
+			<td>6,38</td>
+			<td>FRANCISCO XAVIER DE OLIVEIRA FILHO</td>
+		</tr>
+		<tr>
+			<td>6,38</td>
+			<td>LUIZ FELIPE VERAS MOURA</td>
+		</tr>
+		<tr>
+			<td>6,38</td>
+			<td>THIAGO BARBOSA GON&Ccedil;ALVES DA ROCHA</td>
+		</tr>
+		<tr>
+			<td>6,37</td>
+			<td>JORGE ADRIANO CAVALCANTI DE ARA&Uacute;JO</td>
+		</tr>
+		<tr>
+			<td>6,37</td>
+			<td>JOS&Eacute; EDSON DE ALMEIDA ROCHA</td>
+		</tr>
+		<tr>
+			<td>6,37</td>
+			<td>JOAO BATISTA DA SILVA JUNIOR</td>
+		</tr>
+		<tr>
+			<td>6,37</td>
+			<td>AIRTON CARLOS DIAS PAZ</td>
+		</tr>
+		<tr>
+			<td>6,37</td>
+			<td>LU&Iacute;S ANTONIO FERREIRA BEZERRA</td>
+		</tr>
+		<tr>
+			<td>6,36</td>
+			<td>WESLEY JUSTINO DA SILVA SOUZA</td>
+		</tr>
+		<tr>
+			<td>6,36</td>
+			<td>AMRI M&Aacute;XIMO SANTANA</td>
+		</tr>
+		<tr>
+			<td>6,36</td>
+			<td>CAYO RAFAEL GON&Ccedil;ALVES CABRAL</td>
+		</tr>
+		<tr>
+			<td>6,36</td>
+			<td>HELIO MOURA DE SOUZA</td>
+		</tr>
+		<tr>
+			<td>6,36</td>
+			<td>NYCHERLIME LEANO FRAN&Ccedil;A COUTINHO</td>
+		</tr>
+		<tr>
+			<td>6,36</td>
+			<td>PEDRO TE&Oacute;FILO SILVA DE MOURA</td>
+		</tr>
+		<tr>
+			<td>6,35</td>
+			<td>LUIZ PEREIRA DA CRUZ NETO</td>
+		</tr>
+		<tr>
+			<td>6,35</td>
+			<td>MARCOS ANTONIO DE ARAUJO FILHO</td>
+		</tr>
+		<tr>
+			<td>6,34</td>
+			<td>MACLAUD SUYAN SILVA DA COSTA</td>
+		</tr>
+		<tr>
+			<td>6,33</td>
+			<td>EDJAIR DA SILVA OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>6,33</td>
+			<td>ERBERTH WALKER NERI ARAUJO CAVALCANTI</td>
+		</tr>
+		<tr>
+			<td>6,33</td>
+			<td>JOSE DANILO MOREIRA PEREIRA</td>
+		</tr>
+		<tr>
+			<td>6,33</td>
+			<td>S&Eacute;RGIO ROBERTO TEMOTEO FILHO</td>
+		</tr>
+		<tr>
+			<td>6,32</td>
+			<td>FRANCISCO MUZIER DA SILVA ARAUJO</td>
+		</tr>
+		<tr>
+			<td>6,32</td>
+			<td>RAFAEL ARTUR PEREZ PINHEIRO</td>
+		</tr>
+		<tr>
+			<td>6,32</td>
+			<td>SAMUEL ANDRADE DE SANTANA</td>
+		</tr>
+		<tr>
+			<td>6,32</td>
+			<td>FRANCISCO DAS CHAGAS PEREIRA DE OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>6,32</td>
+			<td>ANDERSON CORDEIRO FERREIRA</td>
+		</tr>
+		<tr>
+			<td>6,31</td>
+			<td>JOSENILDO OLIVEIRA MORAIS</td>
+		</tr>
+		<tr>
+			<td>6,31</td>
+			<td>LEONISIO DENIS PEREIRA DA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,31</td>
+			<td>MARCOS CESAR DA SILVA FILHO</td>
+		</tr>
+		<tr>
+			<td>6,3</td>
+			<td>FRANCISCO RODRIGUES DA SILVA NETO</td>
+		</tr>
+		<tr>
+			<td>6,3</td>
+			<td>JEFFERSON TEN&Oacute;RIO DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>6,29</td>
+			<td>CARLOS MAGNO DE ARAUJO FREIRE JUNIOR</td>
+		</tr>
+		<tr>
+			<td>6,29</td>
+			<td>GLEYFERSON FELIPE DA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,29</td>
+			<td>ALESSANDRO DANTAS BEZERRA DA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,28</td>
+			<td>ANDR&Eacute; LUIZ SANTOS DE ARA&Uacute;JO</td>
+		</tr>
+		<tr>
+			<td>6,28</td>
+			<td>JESSIONE MENDON&Ccedil;A DO VALE JUNIOR</td>
+		</tr>
+		<tr>
+			<td>6,27</td>
+			<td>ELTON HENRIQUE DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>6,27</td>
+			<td>JOSE DIEGO PEREIRA LIMA</td>
+		</tr>
+		<tr>
+			<td>6,27</td>
+			<td>PAULO ROBERTO FERREIRA JUNIOR</td>
+		</tr>
+		<tr>
+			<td>6,27</td>
+			<td>JOS&Eacute; FRANCISCO FILHO</td>
+		</tr>
+		<tr>
+			<td>6,25</td>
+			<td>ENIO FELISBERTO VALENTIM DIAS</td>
+		</tr>
+		<tr>
+			<td>6,25</td>
+			<td>SUERLLEY DE LIMA FERREIRA</td>
+		</tr>
+		<tr>
+			<td>6,24</td>
+			<td>JOAO PAULO CRUZ FERREIRA</td>
+		</tr>
+		<tr>
+			<td>6,24</td>
+			<td>CRISTOV&Atilde;O HENRIQUE BARBOSA FERNANDES</td>
+		</tr>
+		<tr>
+			<td>6,23</td>
+			<td>FAGNER SANTOS DE ASSUN&Ccedil;&Atilde;O</td>
+		</tr>
+		<tr>
+			<td>6,23</td>
+			<td>FRANCISCO HOLANDA CAVALCANTE NETO</td>
+		</tr>
+		<tr>
+			<td>6,23</td>
+			<td>JOS&Eacute; ABSAL&Atilde;O TINOCO NETO</td>
+		</tr>
+		<tr>
+			<td>6,22</td>
+			<td>ANDERSON KEVIN DE ARA&Uacute;JO SERAFIM</td>
+		</tr>
+		<tr>
+			<td>6,22</td>
+			<td>ANDERSON PABLO NASCIMENTO DA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,22</td>
+			<td>RONY LUCAS DA SILVA VIANA</td>
+		</tr>
+		<tr>
+			<td>6,22</td>
+			<td>ITALO GERSON SILVA DE LIMA</td>
+		</tr>
+		<tr>
+			<td>6,22</td>
+			<td>PAULO EDUARDO HON&Oacute;RIO DE SOUZA</td>
+		</tr>
+		<tr>
+			<td>6,21</td>
+			<td>MARCONI HENRIQUE FARIAS DE GUSM&Atilde;O</td>
+		</tr>
+		<tr>
+			<td>6,21</td>
+			<td>DOUGLAS VINICIUS OLIVEIRA DINIZ</td>
+		</tr>
+		<tr>
+			<td>6,21</td>
+			<td>JOSE MAYKE OLIVEIRA DA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,2</td>
+			<td>ALMIR JACKSON C&Acirc;MARA</td>
+		</tr>
+		<tr>
+			<td>6,2</td>
+			<td>DIEGO DE OLIVEIRA BATISTA</td>
+		</tr>
+		<tr>
+			<td>6,2</td>
+			<td>LEANDRO WESLLEN SARAIVA DE SANTANA</td>
+		</tr>
+		<tr>
+			<td>6,2</td>
+			<td>LUAN FIGUEIREDO DE SOUZA ANDRADE</td>
+		</tr>
+		<tr>
+			<td>6,2</td>
+			<td>MARCUS VINICIUS BASILIO RIBEIRO DANTAS</td>
+		</tr>
+		<tr>
+			<td>6,19</td>
+			<td>WERIK PROFIRO CAVALCANTI</td>
+		</tr>
+		<tr>
+			<td>6,19</td>
+			<td>RICARDO MEDEIROS RODRIGUES</td>
+		</tr>
+		<tr>
+			<td>6,18</td>
+			<td>BRENO LUIZ DA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,17</td>
+			<td>ADRIANO OLIMPIO CAVALCANTE</td>
+		</tr>
+		<tr>
+			<td>6,16</td>
+			<td>HIAGO PINHEIRO</td>
+		</tr>
+		<tr>
+			<td>6,16</td>
+			<td>ISAAC PAIVA DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>6,16</td>
+			<td>JEFFERSON SOARES DA CRUZ</td>
+		</tr>
+		<tr>
+			<td>6,16</td>
+			<td>ALEX BRUNNO BEZERRA DA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,15</td>
+			<td>CARLOS ANTONIO DA SILVA JUNIOR</td>
+		</tr>
+		<tr>
+			<td>6,14</td>
+			<td>ERICK VINICIUS DE ARAUJO</td>
+		</tr>
+		<tr>
+			<td>6,14</td>
+			<td>HUDSON LUCAS DE SOUZA</td>
+		</tr>
+		<tr>
+			<td>6,14</td>
+			<td>JONAS DE MACEDO SOUZA</td>
+		</tr>
+		<tr>
+			<td>6,14</td>
+			<td>FELIX SCARANO PEREIRA JUNIOR</td>
+		</tr>
+		<tr>
+			<td>6,14</td>
+			<td>SAULLO GREGORY DE SOUSA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,13</td>
+			<td>ARTUR FIDELES BARBOSA</td>
+		</tr>
+		<tr>
+			<td>6,13</td>
+			<td>GIDE&Atilde;O PEDRO GALV&Atilde;O</td>
+		</tr>
+		<tr>
+			<td>6,13</td>
+			<td>JALISON EZIEL DE MEDEIROS SOARES</td>
+		</tr>
+		<tr>
+			<td>6,13</td>
+			<td>TALYSON FERNANDES DE OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>6,13</td>
+			<td>HUGO CARNEIRO SILVA</td>
+		</tr>
+		<tr>
+			<td>6,12</td>
+			<td>YURI AUGUSTO ALEXANDRE GONDIM</td>
+		</tr>
+		<tr>
+			<td>6,12</td>
+			<td>JOSENILDO LEONARDO DA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,11</td>
+			<td>BRUNO ADOUR CORREIA DE ARAUJO</td>
+		</tr>
+		<tr>
+			<td>6,11</td>
+			<td>FEL&Iacute;CIO TEIXEIRA DA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,11</td>
+			<td>MATEUS FREIRE DA COSTA</td>
+		</tr>
+		<tr>
+			<td>6,1</td>
+			<td>MAYCON MARQUES PESSOA</td>
+		</tr>
+		<tr>
+			<td>6,09</td>
+			<td>&Acirc;NGELO V&Iacute;CTOR PINHEIRO DE OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>6,08</td>
+			<td>RODRIGO LAMEC DE LUCENA</td>
+		</tr>
+		<tr>
+			<td>6,07</td>
+			<td>DIOGO SUDARIO JUSTINO DE SOUSA</td>
+		</tr>
+		<tr>
+			<td>6,07</td>
+			<td>FORLLAN SENA DE LIMA</td>
+		</tr>
+		<tr>
+			<td>6,06</td>
+			<td>MARCOS ANT&Ocirc;NIO SILVESTRE</td>
+		</tr>
+		<tr>
+			<td>6,06</td>
+			<td>FERNANDO BEZERRA MONTEIRO</td>
+		</tr>
+		<tr>
+			<td>6,05</td>
+			<td>JOS&Eacute; JEFFERSON MOREIRA ARA&Uacute;JO</td>
+		</tr>
+		<tr>
+			<td>6,05</td>
+			<td>MICHAEL DOUGLAS SILVA OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>6,05</td>
+			<td>WAGNER BATISTA DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>6,04</td>
+			<td>JOS&Eacute; CUST&Oacute;DIO DA SILVA</td>
+		</tr>
+		<tr>
+			<td>6,04</td>
+			<td>ROMUALDO ANTONIO DIAS DE ARAUJO SANTOS</td>
+		</tr>
+		<tr>
+			<td>6,03</td>
+			<td>HUGO &Acirc;NGELO FERREIRA DE MELO</td>
+		</tr>
+		<tr>
+			<td>6,03</td>
+			<td>JAIRO MARCILIO GARCIA DA COSTA</td>
+		</tr>
+		<tr>
+			<td>6,03</td>
+			<td>ALESSANDRO EGLE DA SILVA MOURA</td>
+		</tr>
+		<tr>
+			<td>6,03</td>
+			<td>CAIO DELEON MARQUES DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>6,03</td>
+			<td>RAMON ALVES DE ALMEIDA</td>
+		</tr>
+		<tr>
+			<td>6,03</td>
+			<td>ALEXANDRE LUCAS PEREIRA DA ROCHA</td>
+		</tr>
+		<tr>
+			<td>6,02</td>
+			<td>ROD STEWART FAGUNDES BEZERRA</td>
+		</tr>
+		<tr>
+			<td>6,02</td>
+			<td>MAKSUEL CARDOSO DE OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>6</td>
+			<td>DAVISON KAIO COSTA POMPEU</td>
+		</tr>
+		<tr>
+			<td>5,99</td>
+			<td>RENAN AGOSTINHO DA SILVA</td>
+		</tr>
+		<tr>
+			<td>5,98</td>
+			<td>ANDERSON ANDRADE DE LIMA</td>
+		</tr>
+		<tr>
+			<td>5,98</td>
+			<td>EDGAR ELLY DE SOUSA SANTOS</td>
+		</tr>
+		<tr>
+			<td>5,96</td>
+			<td>JOS&Eacute; VICENTE GOUVEIA NETO</td>
+		</tr>
+		<tr>
+			<td>5,95</td>
+			<td>JO&Atilde;O PAULO DA COSTA RODRIGUES</td>
+		</tr>
+		<tr>
+			<td>5,95</td>
+			<td>PEDRO HENRIQUE DE SOUZA</td>
+		</tr>
+		<tr>
+			<td>5,94</td>
+			<td>DIEGO WANDERSON PORCI&Uacute;NCULA DAMASCENO</td>
+		</tr>
+		<tr>
+			<td>5,94</td>
+			<td>TIAGO MISSIAS PEREIRA</td>
+		</tr>
+		<tr>
+			<td>5,93</td>
+			<td>ERICLES ARRUDA PESSOA</td>
+		</tr>
+		<tr>
+			<td>5,92</td>
+			<td>GILTON VANDERLEY GOMES</td>
+		</tr>
+		<tr>
+			<td>5,92</td>
+			<td>JORGE LUAN DO NASCIMENTO</td>
+		</tr>
+		<tr>
+			<td>5,92</td>
+			<td>T&Aacute;CIO TIB&Eacute;RIO ALENCAR DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>5,92</td>
+			<td>WALLESON EDUARDO MARCELINO ARAUJO</td>
+		</tr>
+		<tr>
+			<td>5,91</td>
+			<td>ALEX ALEFF FREITAS AQUINO</td>
+		</tr>
+		<tr>
+			<td>5,91</td>
+			<td>RONIEL JOSE NOGUEIRA DA SILVA</td>
+		</tr>
+		<tr>
+			<td>5,91</td>
+			<td>MIQUEIAS DA SILVA FERREIRA</td>
+		</tr>
+		<tr>
+			<td>5,91</td>
+			<td>PEDRO IGOR DE CARVALHO</td>
+		</tr>
+		<tr>
+			<td>5,89</td>
+			<td>LUIZ PAULO FRANCO DE OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>5,89</td>
+			<td>JOSE DAMIAO DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>5,89</td>
+			<td>PAULO WAGNER SILVA DA COSTA</td>
+		</tr>
+		<tr>
+			<td>5,88</td>
+			<td>JARIO LIMA DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>5,88</td>
+			<td>M&Aacute;RIO S&Eacute;RGIO ALVES DE SOUSA JUNIOR</td>
+		</tr>
+		<tr>
+			<td>5,87</td>
+			<td>EMMANUEL RABELO ALVES</td>
+		</tr>
+		<tr>
+			<td>5,87</td>
+			<td>FRANCISCO PEREIRA DO CARMO NETO</td>
+		</tr>
+		<tr>
+			<td>5,87</td>
+			<td>TARCISIO LUCAS DE ANDRADE GOMES</td>
+		</tr>
+		<tr>
+			<td>5,87</td>
+			<td>GEILSON BARBOSA DE OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>5,87</td>
+			<td>JEAN FELIPE DOS SANTOS MEDEIROS</td>
+		</tr>
+		<tr>
+			<td>5,86</td>
+			<td>PEDRO PAULO LIMA MARTINIANO</td>
+		</tr>
+		<tr>
+			<td>5,85</td>
+			<td>CARLOS EDUARDO GOMES LEAL</td>
+		</tr>
+		<tr>
+			<td>5,85</td>
+			<td>NEFTALI DENIS DE OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>5,83</td>
+			<td>DIEGO DAVID DE OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>5,81</td>
+			<td>HERCULES KAIO NUNES DA COSTA</td>
+		</tr>
+		<tr>
+			<td>5,79</td>
+			<td>AUGUSTO VINICIUS MOURA OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>5,79</td>
+			<td>YURI HENRIQUE FERREIRA</td>
+		</tr>
+		<tr>
+			<td>5,76</td>
+			<td>SEVERINO CAVALCANTI DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>5,75</td>
+			<td>JO&Atilde;O BOSCO LELIS DE MOURA FILHO</td>
+		</tr>
+		<tr>
+			<td>5,74</td>
+			<td>EDECIO TORRES DO REGO BARROS WANDERLEY FILHO</td>
+		</tr>
+		<tr>
+			<td>5,72</td>
+			<td>ELIANDSON DOS SANTOS SOARES</td>
+		</tr>
+		<tr>
+			<td>5,72</td>
+			<td>FILIPE AUGUSTO CABRAL DOS SANTOS</td>
+		</tr>
+		<tr>
+			<td>5,71</td>
+			<td>KLEBER LINS GUIMAR&Atilde;ES</td>
+		</tr>
+		<tr>
+			<td>5,71</td>
+			<td>LEANDRO MARIO LIMA DA SILVA</td>
+		</tr>
+		<tr>
+			<td>5,7</td>
+			<td>GEORGE DA SILVA MAGALH&Atilde;ES JUNIOR</td>
+		</tr>
+		<tr>
+			<td>5,67</td>
+			<td>MACIEL MORATO DA SILVA</td>
+		</tr>
+		<tr>
+			<td>5,66</td>
+			<td>WENDELL RICARDO SOUZA SANTOS</td>
+		</tr>
+		<tr>
+			<td>5,65</td>
+			<td>ALDERSON FRANKLIN DE MELO</td>
+		</tr>
+		<tr>
+			<td>5,65</td>
+			<td>ISAAC LEAL DE SANTANA</td>
+		</tr>
+		<tr>
+			<td>5,63</td>
+			<td>JEFFERSON FELIX DA SILVA</td>
+		</tr>
+		<tr>
+			<td>5,62</td>
+			<td>DENILSON DE SOUZA F&Eacute;LIX</td>
+		</tr>
+		<tr>
+			<td>5,61</td>
+			<td>ANTHONY NASCIMENTO BARBOSA</td>
+		</tr>
+		<tr>
+			<td>5,6</td>
+			<td>LUAN HENRIQUE GOMES PEREIRA</td>
+		</tr>
+		<tr>
+			<td>5,59</td>
+			<td>ALFREDO GON&Ccedil;ALVES SILVA</td>
+		</tr>
+		<tr>
+			<td>5,59</td>
+			<td>CAYO JUDSON DE FARIAS OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>5,57</td>
+			<td>MACIEL DE FREITAS E SOUZA</td>
+		</tr>
+		<tr>
+			<td>5,56</td>
+			<td>NIEDSON ALVES TEIXEIRA</td>
+		</tr>
+		<tr>
+			<td>5,55</td>
+			<td>ARTHUR EMERSON DOMINGOS DE OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>5,55</td>
+			<td>JOSE PETRONILO DA SILVA FILHO</td>
+		</tr>
+		<tr>
+			<td>5,53</td>
+			<td>TIAGO ANANIAS GON&Ccedil;ALO</td>
+		</tr>
+		<tr>
+			<td>5,52</td>
+			<td>ISMAIK CARVALHO MONTENEGRO</td>
+		</tr>
+		<tr>
+			<td>5,51</td>
+			<td>EMANUEL MEDEIROS N&Oacute;BREGA</td>
+		</tr>
+		<tr>
+			<td>5,48</td>
+			<td>ELIESMAR RONNYVON FERNANDES DE MORAIS</td>
+		</tr>
+		<tr>
+			<td>5,48</td>
+			<td>MARCO AURELLIO SOUZA DE MENEZES</td>
+		</tr>
+		<tr>
+			<td>5,47</td>
+			<td>ROMARIO GOMES FERREIRA</td>
+		</tr>
+		<tr>
+			<td>5,46</td>
+			<td>LUCAS VINICIUS ROCHA DE OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>5,45</td>
+			<td>PEDRO VIN&Iacute;CIUS DA SILVA</td>
+		</tr>
+		<tr>
+			<td>5,42</td>
+			<td>ANTONIO CASTRO BEZERRA NETO</td>
+		</tr>
+		<tr>
+			<td>5,42</td>
+			<td>KAIO EMMANUEL SILVA BEZERRA</td>
+		</tr>
+		<tr>
+			<td>5,42</td>
+			<td>MAIKON FERNANDES DA SILVA</td>
+		</tr>
+		<tr>
+			<td>5,4</td>
+			<td>FRANCISCO WALCLEYTON DE SOUSA TAVARES</td>
+		</tr>
+		<tr>
+			<td>5,36</td>
+			<td>LAETE MAXUELL OLIVEIRA DE SOUZA</td>
+		</tr>
+		<tr>
+			<td>5,32</td>
+			<td>KAIQUE DE ALMEIDA VALADARES</td>
+		</tr>
+		<tr>
+			<td>5,31</td>
+			<td>ALEXANDRE VICTOR LIMA FAUSTINO</td>
+		</tr>
+		<tr>
+			<td>5,3</td>
+			<td>CLEVERSON LUIS MORAIS DO NASCIMENTO</td>
+		</tr>
+		<tr>
+			<td>5,29</td>
+			<td>JOSE MEIRA DE VASCONCELOS NETO</td>
+		</tr>
+		<tr>
+			<td>5,24</td>
+			<td>THIAGO OTAVIO SANTOS ANGELIM</td>
+		</tr>
+		<tr>
+			<td>5,17</td>
+			<td>CLEBISON SOARES DA SILVA</td>
+		</tr>
+		<tr>
+			<td>5,13</td>
+			<td>SILAS ROBERTO GUIMAR&Atilde;ES DA PENHA</td>
+		</tr>
+		<tr>
+			<td>5,13</td>
+			<td>WENDELL COSTA DE SOUZA</td>
+		</tr>
+		<tr>
+			<td>5,04</td>
+			<td>RONALDO NUNES MONTEIRO DA COSTA</td>
+		</tr>
+		<tr>
+			<td>5,03</td>
+			<td>BRUNO MISAEL MIRANDA BRAGA</td>
+		</tr>
+		<tr>
+			<td>5,03</td>
+			<td>MAURICIO MAKAREN CARDOSO DE OLIVEIRA PEREIRA</td>
+		</tr>
+		<tr>
+			<td>5</td>
+			<td>MARIO SERGIO SOUZA SILVA</td>
+		</tr>
+		<tr>
+			<td>4,99</td>
+			<td>BRUNO CARDOSO DA SILVA</td>
+		</tr>
+		<tr>
+			<td>4,96</td>
+			<td>MAYCON VIRGILIO DE FARIAS</td>
+		</tr>
+		<tr>
+			<td>4,92</td>
+			<td>GRACIANO ALVES DE ARAUJO FILHO</td>
+		</tr>
+		<tr>
+			<td>4,51</td>
+			<td>HIP&Oacute;LITO CASSIANO DE OLIVEIRA</td>
+		</tr>
+		<tr>
+			<td>3,82</td>
+			<td>JACKSON VICENTE TEIXEIRA DA SILVA</td>
+		</tr>
+		<tr>
+			<td>3,49</td>
+			<td>RONALDO CESAR ESTACIO CUNHA</td>
+		</tr>
+		<tr>
+			<td>3,27</td>
+			<td>H&Aacute;DYSON BRUNO DOS SANTOS</td>
+		</tr>
+	</tbody>
+</table>
+	<script>
+ $('input#txt_consulta').quicksearch('table#tabela tbody tr');
+	</script>
+	  </body>
+	  </html>
