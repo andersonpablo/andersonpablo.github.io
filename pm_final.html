@@ -11,6 +11,7 @@
   <span class="input-group-addon"><i class="glyphicon glyphicon-search"></i></span>
  <input name="consulta" id="txt_consulta" placeholder="Consultar" type="text" class="form-control">
 </div>
+	
 
 	<table id="tabela" class="table table-hover">
 		<thead>
@@ -5508,6 +5509,9 @@
 	</tbody>
 </table>
 	<script>
+    $('td:first-child').each(function() {
+    $(this).text(($(this).text().replace(',','.') * 2).toString().replace('.',','));
+})
  $('input#txt_consulta').quicksearch('table#tabela tbody tr');
 	</script>
 	  </body>
