@@ -1,0 +1,76 @@
+td img {
+/* Another Mozilla/Netscape bug with making sure our images display correctly */
+	display: block;
+}
+
+#FWTableContainer179859487 {
+/* The master div to make sure that our popup menus get aligned correctly.  Be careful when playing with this one. */
+	position:relative;
+	margin:0px;
+	width:700px;
+	height:525px;
+	text-align:left;
+}
+
+#MMMenuContainer0025165857_0 {
+/* This ID is related to the master menu div for menu MMMenuContainer0025165857_0 and contains the important positioning information for the menu as a whole */
+	position:absolute;
+	left:285px;
+	top:161px;
+	visibility:hidden;
+	z-index:300;
+}
+
+#MMMenu0025165857_0 {
+/* This class defines things about menu MMMenu0025165857_0's div. */
+	position:absolute;
+	left:0px;
+	top:0px;
+	visibility:hidden;
+	background-color:#555555;
+	width:411px;
+	height:28px;
+}
+
+.MMMIFHStyleMMMenu0025165857_0 {
+/* This class determines the general characteristics of the menu items in menu MMMenu0025165857_0 */
+	width:411px;
+	height:28px;
+	voice-family: "\"}\"";
+	voice-family:inherit;
+	width:405px;
+	height:22px;
+}
+
+#MMMenu0025165857_0_Item_0 {
+/* Unique ID for item 0 of menu MMMenu0025165857_0 so we can set its position */
+	left:0px;
+	top:0px;
+}
+
+#MMMenuContainer0025165857_0 img {
+/* needed for Mozilla/Camino/Netscape */
+	border:0px;
+}
+
+#MMMenuContainer0025165857_0 a {
+/* Controls the general apperance for menu MMMenuContainer0025165857_0's items, including color and font */
+	text-decoration:none;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:18px;
+	color:#ff0000;
+	text-align:left;
+	vertical-align:middle;
+	padding:3px;
+	background: url("mmmenu1_411x28_up.gif") #000000;
+	font-weight:normal;
+	font-style:italic;
+	display:block;
+	position:absolute;
+}
+
+#MMMenuContainer0025165857_0 a:hover {
+/* Controls the mouse over effects for menu MMMenuContainer0025165857_0 */
+	color:#000000;
+	background: url("mmmenu1_411x28_over.gif") #ffffff;
+}
