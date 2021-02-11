@@ -65,13 +65,11 @@
     <div id="app">
 
         <h1>Selecione o dia e ano que você nasceu e a cor da camisa que você está usando</h1>
-
-      <label for="inputState">State</label>
-      <select id="inputState" class="form-control">
           
-    <form class="form-inline align-items-center">
+     <form class="row g-3 align-items-center">
+           <div class="col-auto">
         <div id="selects">
-            <select  id="day" class="form-control"> 
+            <select id="day" class="form-select"> 
                 <option value="1" selected>1</option>
                 <option value="2">2</option>
                 <option value="3">3</option>
@@ -104,7 +102,9 @@
                 <option value="30">30</option>
                 <option value="31">31</option>
             </select>
-            <select id="month" class="form-control">
+               </div>
+             <div class="col-auto">
+            <select id="month" class="form-select">
                 <option value="1" selected>Janeiro</option>
                 <option value="2">Fevereiro</option>
                 <option value="3">Março</option>
@@ -118,7 +118,9 @@
                 <option value="11">Novembro</option>
                 <option value="12">Dezembro</option>
             </select>
-             <select id="color" class="form-control">
+               </div>
+              <div class="col-auto">
+             <select id="color" class="form-select">
                 <option value="1" selected>Branca</option>
                 <option value="2">Azul</option>
                 <option value="3">Amarelo</option>
@@ -133,9 +135,8 @@
                 <option value="12">Colorida</option>
                 <option value="13">Listrada</option>
                 <option value="14">Sem Camisa</option>
-
             </select>
-
+               </div>
         </div>
           </form>
         <div id="lumena">
