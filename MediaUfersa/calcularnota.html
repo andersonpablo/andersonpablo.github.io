@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+<head>
+  <title>Calcular Nota</title>
+  <meta name="viewport" content="width=device-width">
+	<script type="text/javascript" src="calcularnota.js"></script>
+	<link rel="javascript" type="text/javascript" href="js/bootstrap.js">
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">	
+	<link rel="stylesheet" type="text/css" href="css/estilo.css">	
+</head>
+<body>
+	
+	<div id="geral">
+	<div id="logo"><center><img src="img/logo.png" class="img-responsive"></center></div>
+	<center>
+	<form name="form">
+		<div class="form-group">
+			
+<label><h4>Nota 1: <input name="nota1" size="4" type="number" placeholder="7.0" /><br /></h4></label>
+<label><h4>Nota 2: <input name="nota2" size="4" type="number" placeholder="8.5" /><br /></h4></label>
+<label><h4>Nota 3: <input name="nota3" size="4" type="number" placeholder="9.0" /></h4></label>
+	
+	</form>
+	<br />
+	
+		<button onclick="CalculaMedia()" class="btn btn-primary" type="button">Média</button>
+		<button onclick="calculaNotaNecessaria()" class="btn btn-primary" type="button">Nota Necessária</button><br /><br/>
+		</center>
+	</div>
+
+	
+<div id="label1"></div>
+<div id="label2"></div>
+<br/><br/>
+<div id="rodape">
+	<center>Aplicativo sem fins lucrativos, desenvolvido por <a href="https://fb.com/andersonnpablo"><font color="white">Anderson Pablo</font></a> - BSI UFERSA ANGICOS.</center>
+	</div>
+</div>
+
+</body>
+</html>
