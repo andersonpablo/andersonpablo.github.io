@@ -13,17 +13,29 @@ function mostrarRadio() {
      text.style.display = "none";
   }
 }
+
+
+function download(url) {
+  const a = document.createElement('a')
+  a.href = url
+  a.download = url.split('/').pop()
+  document.body.appendChild(a)
+  a.click()
+  document.body.removeChild(a)
+}
+
+
 	</script>
 </head>
-<body>
+<body>	
 <label>Gerar Relatório:</label> 
 
-<input type="checkbox" id="gerarRelatorio" onclick="mostrarRadio()">
+<input type="checkbox" id="gerarRelatorio" onclick="">
 
-<div id="radio" style="display:none">
-	<input type="radio" id="xls" name="gerarRelatorio"onClick="location.href='projeto/teste.xls';">
+<div id="radio" style="display:block">
+	<input type="radio" id="xls" name="gerarRelatorio" onClick="download('projeto/teste.xls');">
 	<label for="css">XLS</label><br>
-	<input type="radio" id="csv" name="gerarRelatorio" onClick="location.href='projeto/teste.csv';">
+	<input type="radio" id="csv" name="gerarRelatorio" onclick="download('projeto/teste.csv');">
 	<label for="csv">CSV</label>
 </div>
 </body>
