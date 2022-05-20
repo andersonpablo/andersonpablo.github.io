@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+
+	<script type="text/javascript">
+function mostrarRadio() {
+  var checkBox = document.getElementById("gerarRelatorio");
+  var text = document.getElementById("radio");
+  if (checkBox.checked == true){
+    text.style.display = "block";
+  } else {
+     text.style.display = "none";
+  }
+}
+	</script>
+</head>
+<body>
+<label>Gerar Relatório:</label> 
+
+<input type="checkbox" id="gerarRelatorio" onclick="">
+
+<div id="radio" style="display:none">
+	<input type="radio" id="xls" name="gerarRelatorio"onClick="location.href='projeto/teste.xls';">
+	<label for="css">XLS</label><br>
+	<input type="radio" id="csv" name="gerarRelatorio" onClick="location.href='projeto/teste.csv';">
+	<label for="csv">CSV</label>
+</div>
+</body>
+</html>
