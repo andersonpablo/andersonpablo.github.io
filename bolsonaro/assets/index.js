@@ -135,6 +135,13 @@ class Lumenation {
         this.drawImage('');
     }
 
+    loadBrain() {
+        return fetch("./assets/fraseslumena.json", {
+            headers: { 'Content-Type': 'application/json; charset=utf-8' }
+        }).then(res => res.json())
+            .then(res => this.lumenations = res)
+    }
+
     drawImage(text) {
         const width = this.canvasElement.width
 
@@ -158,10 +165,11 @@ class Lumenation {
     }
 }
 
+
+
 let lumenation = new Lumenation()
 
-lumenation.loadBrain()
-    .then(() => {
+lumenation.loadBrain().then(() => {
         lumenation.loadBackground(() => lumenation.lumenate())
         const values = lumenation.getAttrs()
         lumenation.setValues(values)
