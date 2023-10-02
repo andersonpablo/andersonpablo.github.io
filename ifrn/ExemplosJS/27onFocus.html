@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Exemplo de evento onFocus</title>
+</head>
+<body>
+    <label for="nome">Nome:</label>
+    <input type="text" id="nome" onFocus="campoEmFoco()">
+    <p id="mensagem"></p>
+
+    <script>
+        var mensagem = document.getElementById('mensagem');
+        
+        function campoEmFoco() {
+            mensagem.textContent = 'O campo de nome está em foco.';
+        }
+    </script>
+</body>
+</html>

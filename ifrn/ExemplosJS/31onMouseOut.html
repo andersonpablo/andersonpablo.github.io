@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Exemplo de evento onMouseOut</title>
+    <script>
+        function mudarCor(elemento) {
+            elemento.style.color = 'red';
+        }
+
+        function restaurarCor(elemento) {
+            elemento.style.color = 'black'; 
+        }
+    </script>
+</head>
+<body>
+    <p onmouseover="mudarCor(this)" onmouseout="restaurarCor(this)">Passe o mouse sobre este parágrafo.</p>
+</body>
+</html>
