@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IFS - INFORMÁTICA 2024</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <style>
+        .ac { background-color: #d4edda; } /* Verde para AC */
+        .n { background-color: #ffc107; } /* Amarelo para Cotas Negros */
+        .pcd { background-color: #00f6ff; } /* Azul Claro para PcD */
+        .filter-input { margin-bottom: 20px; }
+    	.table-bordered td, .table-bordered th{border: 1px solid #6c757d;}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="mt-4 mb-4">IFS - INFORMÁTICA 2024 - RESULTADO PARCIAL</h1>
+        
+        <!-- Filtro por Nome -->
+        <input type="text" id="filter" class="form-control filter-input" placeholder="Filtrar por nome...">
+        
+        <!-- Tabela -->
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Classificação</th>
+                    <th>Nome</th>
+                    <th>Chamamento</th>
+                    <th>Prova Objetiva</th>
+                    <th>Prova Didática</th>
+                    <th>Títulos</th>
+                    <th>Resultado Final</th>
+                </tr>
+            </thead>
+            <tbody id="table-body">
+                <!-- Dados da tabela serão inseridos pelo JavaScript -->
+            </tbody>
+        </table>
+    </div>
+
+    <!-- Bootstrap JS, Popper.js, jQuery -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    <!-- Custom JS -->
+    <script>
+        // Dados da tabela
+        const data = [
+            { id: 1, ordem: 1, nome: "GLEYSER BOMFIM GUIMARAES", notaObjetiva: 74.70, provaDidatica: 92.87, titulos: 55.00, resultadoFinal: 78.03, tipoCota: 'ac' },
+            { id: 2, ordem: 2, nome: "JUNO VITORINO SARAIVA", notaObjetiva: 72.70, provaDidatica: 96.90, titulos: 44.00, resultadoFinal: 76.64, tipoCota: 'ac' },
+            { id: 3, ordem: 4, nome: "JOSEMAR ALVES CAETANO", notaObjetiva: 81.00, provaDidatica: 81.31, titulos: 56.50, resultadoFinal: 76.22, tipoCota: 'ac' },
+            { id: 4, ordem: 6, nome: "FABRÍCIO FEITOSA CARVALHO", notaObjetiva: 84.30, provaDidatica: 84.64, titulos: 39.00, resultadoFinal: 75.38, tipoCota: 'ac' },
+            { id: 5, ordem: 5, nome: "FRANKLIN MAGALHÃES RIBEIRO JUNIOR", notaObjetiva: 73.30, provaDidatica: 84.69, titulos: 58.50, resultadoFinal: 74.90, tipoCota: 'pcd' },
+            { id: 6, ordem: 7, nome: "ALEX ALVES DA PAIXAO", notaObjetiva: 73.00, provaDidatica: 81.83, titulos: 56.00, resultadoFinal: 73.13, tipoCota: 'ac' },
+            { id: 7, ordem: 9, nome: "DANIEL LEITE VIANA", notaObjetiva: 69.00, provaDidatica: 88.70, titulos: 43.00, resultadoFinal: 71.68, tipoCota: 'ac' },
+            { id: 8, ordem: 10, nome: "MICHAEL OLIVEIRA DA CRUZ", notaObjetiva: 80.00, provaDidatica: 77.20, titulos: 42.50, resultadoFinal: 71.38, tipoCota: 'ac' },
+            { id: 9, ordem: 11, nome: "DOUGLAS LEITE LEAL MOURA", notaObjetiva: 76.30, provaDidatica: 87.14, titulos: 29.00, resultadoFinal: 71.18, tipoCota: 'ac' },
+            { id: 10, ordem: 12, nome: "LUIZ FERNANDO FONSÊCA PINHEIRO DE LIMA", notaObjetiva: 70.30, provaDidatica: 87.73, titulos: 35.00, resultadoFinal: 70.21, tipoCota: 'ac' },
+            { id: 11, ordem: 14, nome: "ELTON RAFAEL CASTRO SILVA MATOS", notaObjetiva: 69.70, provaDidatica: 92.79, titulos: 26.00, resultadoFinal: 70.20, tipoCota: 'ac' },
+            { id: 12, ordem: 16, nome: "LUCAS SAMPAIO LEITE", notaObjetiva: 63.00, provaDidatica: 84.60, titulos: 48.50, resultadoFinal: 68.74, tipoCota: 'ac' },
+            { id: 13, ordem: 17, nome: "WESLEY OLIVEIRA SOUZA", notaObjetiva: 60.30, provaDidatica: 92.18, titulos: 37.50, resultadoFinal: 68.49, tipoCota: 'ac' },
+            { id: 14, ordem: 19, nome: "GELSON IEZZI DE MEDEIROS GARCIA", notaObjetiva: 74.00, provaDidatica: 82.96, titulos: 26.00, resultadoFinal: 67.98, tipoCota: 'ac' },
+            { id: 15, ordem: 21, nome: "LUIZ FELIPE DE SOUSA", notaObjetiva: 62.00, provaDidatica: 90.25, titulos: 35.00, resultadoFinal: 67.90, tipoCota: 'ac' },
+            { id: 16, ordem: 22, nome: "FAUSTO BERNARD MELO SOARES", notaObjetiva: 62.30, provaDidatica: 81.88, titulos: 42.00, resultadoFinal: 66.07, tipoCota: 'ac' },
+            { id: 17, ordem: 24, nome: "THIAGO DIAS BISPO", notaObjetiva: 76.30, provaDidatica: 64.43, titulos: 48.00, resultadoFinal: 65.89, tipoCota: 'ac' },
+            { id: 18, ordem: 3, nome: "HÍCARO FELIPE BRASILEIRO DE MACEDO SILVA", notaObjetiva: 65.30, provaDidatica: 83.47, titulos: 30.00, resultadoFinal: 65.51, tipoCota: 'n' },
+            { id: 19, ordem: 25, nome: "GIANCARLO LIMA TORRES", notaObjetiva: 63.30, provaDidatica: 79.58, titulos: 40.50, resultadoFinal: 65.25, tipoCota: 'ac' },
+            { id: 20, ordem: 8, nome: "ERIC DOS SANTOS SAMPAIO", notaObjetiva: 62.00, provaDidatica: 85.06, titulos: 28.50, resultadoFinal: 64.52, tipoCota: 'n' },
+            { id: 21, ordem: 26, nome: "LUIS TERTULINO DA CUNHA NETO", notaObjetiva: 71.70, provaDidatica: 71.26, titulos: 34.00, resultadoFinal: 63.98, tipoCota: 'ac' },
+            { id: 22, ordem: 27, nome: "CLAUDIO CLEVERSON DE LIMA", notaObjetiva: 62.30, provaDidatica: 95.89, titulos: 0.00, resultadoFinal: 63.28, tipoCota: 'n' },
+            { id: 23, ordem: 13, nome: "DANILO FERREIRA NEVES", notaObjetiva: 74.30, provaDidatica: 61.84, titulos: 41.00, resultadoFinal: 62.66, tipoCota: 'n' },
+            { id: 24, ordem: 0, nome: "EMERSON SANTOS DE OLIVEIRA", notaObjetiva: 61.00, provaDidatica: 70.33, titulos: 49.50, resultadoFinal: 62.43, tipoCota: '' },
+            { id: 25, ordem: 0, nome: "ANTÔNIO JOSÉ ALVES NETO", notaObjetiva: 64.00, provaDidatica: 73.29, titulos: 33.00, resultadoFinal: 61.52, tipoCota: '' },
+            { id: 26, ordem: 15, nome: "ANTONIO FERNANDO CRUZ SANTOS", notaObjetiva: 68.70, provaDidatica: 68.83, titulos: 31.00, resultadoFinal: 61.21, tipoCota: 'n' },
+            { id: 27, ordem: 0, nome: "JOSÉ SOLENIR LIMA FIGUEREDO", notaObjetiva: 78.70, provaDidatica: 72.97, titulos: 0.00, resultadoFinal: 60.67, tipoCota: '' },
+            { id: 28, ordem: 0, nome: "VICTOR EMANUEL FARIAS DA COSTA BORGES", notaObjetiva: 67.00, provaDidatica: 65.12, titulos: 36.50, resultadoFinal: 60.15, tipoCota: '' },
+            { id: 29, ordem: 18, nome: "IVSON GALDINO BORGES", notaObjetiva: 61.70, provaDidatica: 70.17, titulos: 35.50, resultadoFinal: 59.85, tipoCota: 'n' },
+            { id: 30, ordem: 23, nome: "ÂNGELO DOS SANTOS SANTANA", notaObjetiva: 60.70, provaDidatica: 85.64, titulos: 0.00, resultadoFinal: 58.54, tipoCota: 'n' },
+            { id: 31, ordem: 28, nome: "ANDERSON PABLO N. DA SILVA", notaObjetiva: 62.30, provaDidatica: 62.47, titulos: 41.00, resultadoFinal: 58.11, tipoCota: 'n' },
+            { id: 32, ordem: 0, nome: "ELLIOTT VICTOR DE SOUSA CHAVES", notaObjetiva: 68.70, provaDidatica: 61.07, titulos: 30.00, resultadoFinal: 57.91, tipoCota: '' },
+            { id: 33, ordem: 0, nome: "OTHON LUIZ TEIXEIRA DE OLIVEIRA", notaObjetiva: 65.70, provaDidatica: 62.35, titulos: 32.50, resultadoFinal: 57.72, tipoCota: '' },
+            { id: 34, ordem: 0, nome: "GABRIEL JOSEPH RAMOS RAFAEL", notaObjetiva: 64.70, provaDidatica: 62.89, titulos: 30.00, resultadoFinal: 57.04, tipoCota: '' },
+            { id: 35, ordem: 8, nome: "BRENA MAIA SANTOS", notaObjetiva: 64.30, provaDidatica: 61.01, titulos: 34.50, resultadoFinal: 57.02, tipoCota: 'n' },
+            { id: 36, ordem: 9, nome: "JEFFERSON GONZAGA DOS SANTOS", notaObjetiva: 63.00, provaDidatica: 66.00, titulos: 22.00, resultadoFinal: 56.00, tipoCota: 'n' },
+            { id: 37, ordem: 0, nome: "LUIZ RAPHAEL PERETE DE FREITAS", notaObjetiva: 63.30, provaDidatica: 73.70, titulos: 0.00, resultadoFinal: 54.80, tipoCota: '' },
+            { id: 38, ordem: 20, nome: "KEEMBEC SOUZA RELVAS DIAS", notaObjetiva: 63.00, provaDidatica: 60.32, titulos: 26.00, resultadoFinal: 54.53, tipoCota: 'pcd' },
+            { id: 39, ordem: 10, nome: "LUIS FERNANDO SANDES DE OLIVEIRA", notaObjetiva: 64.00, provaDidatica: 60.25, titulos: 10.00, resultadoFinal: 51.70, tipoCota: 'n' }
+        ];
+
+        // Função para gerar as linhas da tabela
+        function generateTable() {
+            const tableBody = document.getElementById('table-body');
+            tableBody.innerHTML = ''; // Limpa o conteúdo existente
+
+            data.forEach(item => {
+                const row = document.createElement('tr');
+                row.className = item.tipoCota; // Adiciona a classe para a cor
+
+                row.innerHTML = `
+                    <td>${item.id}</td>
+                    <td>${item.nome}</td>
+                    <td>${item.ordem}</td>
+                    <td>${item.notaObjetiva}</td>
+                    <td>${item.provaDidatica}</td>
+                    <td>${item.titulos}</td>
+                    <td>${item.resultadoFinal}</td>
+                `;
+
+                tableBody.appendChild(row);
+            });
+        }
+
+        // Função para filtrar a tabela
+        function filterTable() {
+            const filter = document.getElementById('filter').value.toLowerCase();
+            const rows = document.querySelectorAll('#table-body tr');
+
+            rows.forEach(row => {
+                const nome = row.cells[1].textContent.toLowerCase();
+                row.style.display = nome.includes(filter) ? '' : 'none';
+            });
+        }
+
+        // Inicializa a tabela e adiciona o filtro
+        window.onload = () => {
+            generateTable();
+            document.getElementById('filter').addEventListener('keyup', filterTable);
+        };
+    </script>
+</body>
+</html>
