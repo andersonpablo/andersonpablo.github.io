@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monitor de Movimentações</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        #status {
+            margin-top: 20px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Monitor de Movimentações do Processo</h1>
+    <p>Esta página monitora as movimentações do processo e envia notificações via Telegram quando há alterações.</p>
+    <div id="status">Monitorando...</div>
+
+    <script>
+        // Configurações do Telegram (substitua pelos seus valores)
+        const TELEGRAM_BOT_TOKEN = "SEU_TOKEN_DO_BOT"; // Token do seu bot
+        const TELEGRAM_CHAT_ID = "SEU_CHAT_ID"; // Chat ID do usuário/grupo
+
+        // Função para enviar uma notificação via Telegram
+        async function enviarNotificacao(mensagem) {
+            const url = `https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage`;
+
+            try {
+                const response = await fetch(url, {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/json",
+                    },
+                    body: JSON.stringify({
+                        chat_id: TELEGRAM_CHAT_ID,
+                        text: mensagem,
+                    }),
+                });
+
+                if (response.ok) {
+                    console.log("Notificação enviada com sucesso!");
+                } else {
+                    console.error("Erro ao enviar notificação:", await response.text());
+                }
+            } catch (error) {
+                console.error("Erro ao enviar notificação:", error);
+            }
+        }
+
+        // Função para enviar uma mensagem de teste
+        async function enviarMensagemTeste() {
+            const mensagemTeste = "Esta é uma mensagem de teste do monitor de movimentações!";
+            await enviarNotificacao(mensagemTeste);
+        }
+
+        // Função para verificar alterações na movimentação
+        function verificarMovimentacoes() {
+            // Seleciona o elemento que contém as movimentações
+            const elementoMovimentacoes = document.querySelector("#j_id132\\:processoEventoPanel_body");
+
+            if (!elementoMovimentacoes) {
+                console.error("Elemento de movimentações não encontrado!");
+                return;
+            }
+
+            // Armazena o conteúdo inicial
+            let conteudoInicial = elementoMovimentacoes.innerHTML;
+
+            // Verifica alterações a cada 30 minutos (1800000 milissegundos)
+            setInterval(async () => {
+                const conteudoAtual = elementoMovimentacoes.innerHTML;
+
+                if (conteudoAtual !== conteudoInicial) {
+                    console.log("Houve uma alteração na movimentação!");
+                    document.getElementById("status").textContent = "Alteração detectada! Enviando notificação...";
+
+                    // Extrai a última movimentação
+                    const ultimaMovimentacao = elementoMovimentacoes.querySelector(".rich-table-row:last-child")?.textContent.trim();
+
+                    if (ultimaMovimentacao) {
+                        await enviarNotificacao(`Nova movimentação no processo:\n${ultimaMovimentacao}`);
+                    }
+
+                    conteudoInicial = conteudoAtual; // Atualiza o conteúdo inicial
+                }
+            }, 1800000); // Verifica a cada 30 minutos
+        }
+
+        // Envia uma mensagem de teste ao carregar a página
+        enviarMensagemTeste();
+
+        // Inicia a verificação de alterações
+        verificarMovimentacoes();
+    </script>
+</body>
+</html>
